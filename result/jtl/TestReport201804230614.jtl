@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="501" it="0" lt="500" ct="185" ts="1524478463932" s="true" lb="boss_web接口" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="24527" sby="398" ng="1" na="1" hn="yuhualaideMacBook-Pro.local">
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Allow: POST, OPTIONS
+Content-Type: application/json
+Date: Mon, 23 Apr 2018 10:14:24 GMT
+Keep-Alive: timeout=38
+Server: nginx/1.4.6 (Ubuntu)
+Vary: Accept, Cookie
+X-Frame-Options: SAMEORIGIN
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+content-type: application/json
+Content-Length: 148
+Host: bos.liangyihui.net
+Proxy-Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+</requestHeader>
+  <responseData class="java.lang.String">{&quot;eventList&quot;:[{&quot;eventID&quot;:310,&quot;updateTime&quot;:1523858029.0,&quot;eventStartTime&quot;:1523426520.0,&quot;followCount&quot;:3,&quot;eventName&quot;:&quot;朱莉的抉择 ——遗传性癌症综合征&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1523426520.0,&quot;collectCount&quot;:6,&quot;desc&quot;:&quot;遗传型恶性肿瘤综合征是部分人类恶性肿瘤的发生具有家族聚集性，也就是一个家族内有多个成员患有同一种肿瘤或几种肿瘤。随着人类肿瘤分子遗传学的研究进展，人们对其发生的分子机制有了更深刻的认识。遗传型恶性肿瘤综合征在人群中具有发病早、恶性程度高和多发性等特点。目前认为，各种癌基因、肿瘤抑制基因、生长相关基因、细胞周期调控基因、信号转导基因、细胞测亡相关基因等的改变均是肿瘤发生的遗传基础，它们构成了个体对肿瘤的遗传易感性。这种对肿瘤的遗传易感性可以从亲代传递到子代，使子代更易患肿瘤，并对环境致癌因素更加敏感。近年，由于分子诊断技术水平的不断提高，更多种系基因异常导致遗传性肿瘤综合征发病的作用机制被阐明，临床管理也取得重大进展。&quot;},{&quot;eventID&quot;:309,&quot;updateTime&quot;:1523808731.0,&quot;eventStartTime&quot;:1523416320.0,&quot;followCount&quot;:5,&quot;eventName&quot;:&quot;【口袋新闻】“易相传 · 泰致远”—ALL STARS阿斯利康肺癌领袖峰会&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1846939560.0,&quot;collectCount&quot;:4,&quot;desc&quot;:&quot;精确诊断、精准治疗、全程管理……如何在短时间内获得这些全面、实用的最新知识与宝贵的临床经验呢？4月13日-14日在上海举办的“易相传·泰致远—ALL STARS(Astrazeneca Lung cancer Leader STAR Summit)云集众多国内顶级肺癌领域专家，一场丰富、翔实、生动的学术盛宴即将展开！&quot;},{&quot;eventID&quot;:248,&quot;updateTime&quot;:1523712732.0,&quot;eventStartTime&quot;:1523635200.0,&quot;followCount&quot;:22,&quot;eventName&quot;:&quot;2018美国癌症研究协会年会（AACR 2018）&quot;,&quot;eventAddress&quot;:&quot;美国-芝加哥&quot;,&quot;eventEndTime&quot;:1523980800.0,&quot;collectCount&quot;:1,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:311,&quot;updateTime&quot;:1523526146.0,&quot;eventStartTime&quot;:1523523720.0,&quot;followCount&quot;:6,&quot;eventName&quot;:&quot;中国胰腺癌多学科高峰论坛（CSPAC）&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1523523720.0,&quot;collectCount&quot;:4,&quot;desc&quot;:&quot;中国胰腺癌多学科高峰论坛（CSPAC）成立于2015年，第一届和第二届(CSPAC2015 和 CSPAC2016)以分会场形式设置于中国抗癌协会胰腺癌专业委员会 (PCCA)年会之中，以主题发言结合多学科病例讨论的形式广受好评;第三届(CSPAC 2017)则首次以独立会议的形式召开，获得了强烈反响。在成立三年多的时间里，CSPAC 还多次开展区域性多学科学术会议，有力地推动了胰腺癌区域性院际多学科协作。至今为止先后在国际杂志上发表两篇专家共识，扩大了CSPAC国际国内影响力。 第四届中国胰腺癌多学科高峰论坛(CSPAC 2018)将于 2018 年 4 月 13 日-14 日在上海举办，此 次会议以“胰带胰路，推陈出新，凝心聚力，砥砺前行”为主题，共话胰腺癌研究进展和发展之路。本次会议包含了《胰腺癌综合诊治指南(2018 版)》的发布和对 CSPAC 成立至今的历史回顾等多项重磅内容！&quot;},{&quot;eventID&quot;:307,&quot;updateTime&quot;:1523259596.0,&quot;eventStartTime&quot;:1525190400.0,&quot;followCount&quot;:3,&quot;eventName&quot;:&quot;2018年第31届美国儿科血液学/肿瘤学学会年会(ASPHO)&quot;,&quot;eventAddress&quot;:&quot;美国-匹兹堡&quot;,&quot;eventEndTime&quot;:1525449600.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:298,&quot;updateTime&quot;:1522902616.0,&quot;eventStartTime&quot;:1536854400.0,&quot;followCount&quot;:2,&quot;eventName&quot;:&quot;2018年第12届国际肝癌协会年会(ILCA)&quot;,&quot;eventAddress&quot;:&quot;英国-伦敦&quot;,&quot;eventEndTime&quot;:1537027200.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:296,&quot;updateTime&quot;:1522902023.0,&quot;eventStartTime&quot;:1538582400.0,&quot;followCount&quot;:1,&quot;eventName&quot;:&quot;2018年第12届亚太肌肉骨骼系统肿瘤学会会议(APMSTS)&quot;,&quot;eventAddress&quot;:&quot;印度-斋浦尔&quot;,&quot;eventEndTime&quot;:1538928000.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:295,&quot;updateTime&quot;:1522901795.0,&quot;eventStartTime&quot;:1539100800.0,&quot;followCount&quot;:1,&quot;eventName&quot;:&quot;2018年肌肉骨骼肿瘤学会年会(MSTS)&quot;,&quot;eventAddress&quot;:&quot;美国-纽约&quot;,&quot;eventEndTime&quot;:1539273600.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:294,&quot;updateTime&quot;:1522901522.0,&quot;eventStartTime&quot;:1539187200.0,&quot;followCount&quot;:2,&quot;eventName&quot;:&quot;2018年第13届欧洲神经肿瘤学协会大会(EANO)&quot;,&quot;eventAddress&quot;:&quot;瑞典-斯德哥尔摩&quot;,&quot;eventEndTime&quot;:1539446400.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:293,&quot;updateTime&quot;:1522901315.0,&quot;eventStartTime&quot;:1539187200.0,&quot;followCount&quot;:1,&quot;eventName&quot;:&quot;2018第3届国际伊斯坦布尔乳腺癌大会(BREASTANBUL)&quot;,&quot;eventAddress&quot;:&quot;土耳其-伊斯坦布尔&quot;,&quot;eventEndTime&quot;:1539360000.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:292,&quot;updateTime&quot;:1522900709.0,&quot;eventStartTime&quot;:1540310400.0,&quot;followCount&quot;:1,&quot;eventName&quot;:&quot;2018年第15届黑色素瘤研究学会国际会议(SMR)&quot;,&quot;eventAddress&quot;:&quot;英国-曼彻斯特&quot;,&quot;eventEndTime&quot;:1540569600.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:214,&quot;updateTime&quot;:1522896533.0,&quot;eventStartTime&quot;:1509601020.0,&quot;followCount&quot;:22,&quot;eventName&quot;:&quot;2018年美国癌症研究协会年会（AACR 2018）&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1509601020.0,&quot;collectCount&quot;:27,&quot;desc&quot;:&quot;2018 年 4 月14-18日美国癌症研究协会（AACR）年会将在美国芝加哥召开，敬请期待肿瘤资讯带来的第一手资讯报道。成立于1907年的美国癌症研究协会（AACR）是世界上创立最早、规模最大的专注于癌症研究的科学组织，目前拥有超过39000名会员。AACR的任务是研究、教育、交流、协作,预防和治疗癌症。AACR以其科学的广度和卓越的声誉吸引着该领域的研究人员，促进着癌症研究领域科学家之间新知识新思想的交流，并为下一代研究人员提供培训机会，提高公众对癌症的认识。  AACR年会是世界上规模最大的癌症研究会议之一，每年都会吸引来自全球60多个国家的近20000名专业人士出席会议（2017AACR年会有超过22000人注册）。和每年6月在芝加哥召开的美国临床肿瘤学会年会（ASCO）相比，AACR的年会更偏基础研究和早期临床研究，但是随着精准医学的爆发，由于人群精准，很多药物在早期阶段就开始被临床认可应用，也被FDA所批准。AACR年会开始有和ASCO年会融合的趋势。&quot;},{&quot;eventID&quot;:290,&quot;updateTime&quot;:1522467827.0,&quot;eventStartTime&quot;:1522467660.0,&quot;followCount&quot;:3,&quot;eventName&quot;:&quot;2018年全国第十五届妇科肿瘤学术大会&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1522467660.0,&quot;collectCount&quot;:5,&quot;desc&quot;:&quot;速递最新进展，强化规范治疗&quot;},{&quot;eventID&quot;:238,&quot;updateTime&quot;:1522220121.0,&quot;eventStartTime&quot;:1520832540.0,&quot;followCount&quot;:49,&quot;eventName&quot;:&quot;2017肝癌年终盘点&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1520832540.0,&quot;collectCount&quot;:45,&quot;desc&quot;:&quot;【肿瘤资讯2017年终盘点之肝癌篇】连续四周每周四重磅来袭！外科、内科、介入、病理四大领域，四位顶级特工分条缕析全年进展，四位超级特工缜密探寻蛛丝马迹。发现抗击肿瘤超能力！&quot;},{&quot;eventID&quot;:286,&quot;updateTime&quot;:1522116515.0,&quot;eventStartTime&quot;:1522115640.0,&quot;followCount&quot;:8,&quot;eventName&quot;:&quot;2018年第11届欧洲乳腺癌大会(EBCC)&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1522115640.0,&quot;collectCount&quot;:10,&quot;desc&quot;:&quot;欧洲乳腺癌大会(EBCC)是在美国以外地区召开的最大的乳腺癌会议，其宗旨是支持建立一个欧洲多学科的进行乳腺癌各个方面（从基础到临床）科学交流的平台。&quot;},{&quot;eventID&quot;:235,&quot;updateTime&quot;:1521868412.0,&quot;eventStartTime&quot;:1519892220.0,&quot;followCount&quot;:8,&quot;eventName&quot;:&quot;2018年第三届《中华血液学杂志》论坛暨名家谈诊疗会议&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1519892220.0,&quot;collectCount&quot;:5,&quot;desc&quot;:&quot;第三届《中华血液学杂志》论坛暨名家谈诊疗会议公开课。 本届会议由《中华血液学杂志》杂志社、中华医学会血液学分会主办，陆军军医大学第二附属医院全军血液病中心、中国医学科学院血液病医院(血液学研究所)、 北京大学人民医院、北京协和医院承办，邀请全国多名血液肿瘤界大咖前来做专题学术报告，更多精彩课程即将呈现，敬请关注本专题。&quot;},{&quot;eventID&quot;:247,&quot;updateTime&quot;:1521793632.0,&quot;eventStartTime&quot;:1523376000.0,&quot;followCount&quot;:15,&quot;eventName&quot;:&quot;2018 年欧洲肺癌大会（ELCC）&quot;,&quot;eventAddress&quot;:&quot;瑞士-日内瓦&quot;,&quot;eventEndTime&quot;:1523635200.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:284,&quot;updateTime&quot;:1521775909.0,&quot;eventStartTime&quot;:1521775740.0,&quot;followCount&quot;:11,&quot;eventName&quot;:&quot;【全程报道】CCIO2018第九届肿瘤介入与微创治疗大会&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1521775740.0,&quot;collectCount&quot;:4,&quot;desc&quot;:&quot;CCIO2018于2018年3月30日到4月1日在广州盛大召开，肿瘤资讯作为官方合作媒体，将全程深入报道本次大会，为您带来一手资讯，众多学习资料供您反复学习。本次会议的主题是：规范、创新、融合、发展。&quot;},{&quot;eventID&quot;:241,&quot;updateTime&quot;:1521703421.0,&quot;eventStartTime&quot;:1543852800.0,&quot;followCount&quot;:6,&quot;eventName&quot;:&quot;2018年第41届圣安东尼奥乳腺癌研讨会(SABCS)&quot;,&quot;eventAddress&quot;:&quot;美国-圣安东尼奥&quot;,&quot;eventEndTime&quot;:1544198400.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:240,&quot;updateTime&quot;:1521699990.0,&quot;eventStartTime&quot;:1521699600.0,&quot;followCount&quot;:7,&quot;eventName&quot;:&quot;【最新】2018年国际重要肿瘤会议时间表一览 &quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1522477200.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;包含2018年最新的国际重要肿瘤会议时间，尽请期待肿瘤资讯给您带来的更多快讯。&quot;},{&quot;eventID&quot;:239,&quot;updateTime&quot;:1521698806.0,&quot;eventStartTime&quot;:1521698400.0,&quot;followCount&quot;:0,&quot;eventName&quot;:&quot;测试&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1521698400.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;&quot;},{&quot;eventID&quot;:237,&quot;updateTime&quot;:1520824916.0,&quot;eventStartTime&quot;:1520824680.0,&quot;followCount&quot;:9,&quot;eventName&quot;:&quot;妇科肿瘤学会(SGO)：2018年女性癌症年会&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1520824680.0,&quot;collectCount&quot;:11,&quot;desc&quot;:&quot;美国妇科肿瘤学会(SGO)是国际妇科肿瘤方面比较权威的学术组织机构。该学会致力于妇科肿瘤的基础研究、临床治疗及相关护理工作的推广，以及促进广泛的多学科、国际间协作。SGO一直在妇科肿瘤治疗相关人员的教育和科研中担当重要角色,其成员包括来自世界各地的临床肿瘤学、放射肿瘤学、病理学、妇科肿瘤护理学、基础和临床科研以及其他女性癌症防治专业领域人员。&quot;},{&quot;eventID&quot;:236,&quot;updateTime&quot;:1519957196.0,&quot;eventStartTime&quot;:1519956780.0,&quot;followCount&quot;:0,&quot;eventName&quot;:&quot;2018年欧洲血液和骨髓移植学会年会（EBMT）会议报道&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1519956780.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;EBMT致力于促进与所有供体来源和供体类型的造血干细胞移植相关的所有方面，包括基础和临床研究、教育、标准化、质量控制和移植程序认证。EMBT的使命是通过科学、教育和宣传推动世界各地血液和骨髓移植细胞治疗领域的发展，挽救患有血癌及其他疾病患者的生命。&quot;},{&quot;eventID&quot;:232,&quot;updateTime&quot;:1519723519.0,&quot;eventStartTime&quot;:1518005100.0,&quot;followCount&quot;:38,&quot;eventName&quot;:&quot;2017结直肠癌年终盘点&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1518005100.0,&quot;collectCount&quot;:52,&quot;desc&quot;:&quot;顶级大咖坐镇，言之灼灼！学术饕餮盛宴，层层探索！ 在新年来临之际，【肿瘤资讯】倾情呈现结直肠癌年终盘点，为您揭开2017结直肠癌年度进展的秘密！&quot;},{&quot;eventID&quot;:233,&quot;updateTime&quot;:1518007966.0,&quot;eventStartTime&quot;:1518005220.0,&quot;followCount&quot;:21,&quot;eventName&quot;:&quot;2017年结直肠癌年终盘点暨浙医二院大肠癌诊治中心MDT总结大会&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1518005220.0,&quot;collectCount&quot;:22,&quot;desc&quot;:&quot;2017年结直肠癌年终盘点暨浙医二院大肠癌诊治中心MDT总结大会&quot;},{&quot;eventID&quot;:228,&quot;updateTime&quot;:1516576020.0,&quot;eventStartTime&quot;:1516341900.0,&quot;followCount&quot;:10,&quot;eventName&quot;:&quot;2018国际头颈肿瘤研讨会&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1516341900.0,&quot;collectCount&quot;:12,&quot;desc&quot;:&quot;1月20日-21日，国际头颈肿瘤研讨会在广州隆重召开。&quot;},{&quot;eventID&quot;:212,&quot;updateTime&quot;:1516338936.0,&quot;eventStartTime&quot;:1516233600.0,&quot;followCount&quot;:97,&quot;eventName&quot;:&quot;2018年美国临床肿瘤学会胃肠道肿瘤研讨会（ASCO GI）&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1516406400.0,&quot;collectCount&quot;:19,&quot;desc&quot;:&quot;2018年1月18-20日美国临床肿瘤学会胃肠道肿瘤研讨会（ASCO GI）将在美国 旧金山举行&quot;},{&quot;eventID&quot;:226,&quot;updateTime&quot;:1515031813.0,&quot;eventStartTime&quot;:1514440080.0,&quot;followCount&quot;:35,&quot;eventName&quot;:&quot;【重磅】2017肺癌年终盘点--36个大牌专家倾情奉献，热点问题一网打尽&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1514440080.0,&quot;collectCount&quot;:61,&quot;desc&quot;:&quot;【肿瘤资讯】重磅推出六集年度大戏——2017肺癌年终盘点，盛邀肺癌领域最Top的36位神秘特工与你一同回顾2017肺癌领域包括免疫治疗、靶向一线、辅助靶向、脑转移、检测、新药新政方面的最重要成果。12月25日-31日首播，每天一集。人人皆侦探，你不能不来！&quot;},{&quot;eventID&quot;:222,&quot;updateTime&quot;:1513759057.0,&quot;eventStartTime&quot;:1511861580.0,&quot;followCount&quot;:20,&quot;eventName&quot;:&quot;2017第六届广州国际肿瘤学会议&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1511861580.0,&quot;collectCount&quot;:25,&quot;desc&quot;:&quot;作为国内肿瘤学界年度盛会之一，大会前四次会议共邀请来自十二个国家的600余位专家与会做学术报告或主持报告会，共5000余位代表参会，大会的影响力和号召力可见一斑。本次大会由广东省抗癌协会、美中抗癌协会、中山大学肿瘤防治中心、Chinese Journal of Cancer(《癌症》杂志)主办，将秉承“关注科学发展前沿，加强国内外学术交流”的主题，通过院士专场、国际专场、专题报告、壁报展示、手术演示等多种形式，为从事肿瘤学研究和防治相关工作的学者提供展示、学习和交流的平台。&quot;},{&quot;eventID&quot;:223,&quot;updateTime&quot;:1513257024.0,&quot;eventStartTime&quot;:1513232640.0,&quot;followCount&quot;:9,&quot;eventName&quot;:&quot;【爱肺计划】山西省启动会&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1513232640.0,&quot;collectCount&quot;:7,&quot;desc&quot;:&quot;目前肺癌的高发病率和死亡率，俨然已让肺癌成为威胁人类生存和健康的大敌。为此，国家卫计委多次发文，从去年开始由王辰院士牵头联动全国50家医院共同推行启动“爱肺计划”暨“中国肺癌诊疗示范中心项目”。山西省肿瘤医院作为第一批全国爱肺计划项目中心医院之一，身负着提高山西省基层医院肺癌诊治水平的重任。&quot;},{&quot;eventID&quot;:218,&quot;updateTime&quot;:1512722312.0,&quot;eventStartTime&quot;:1510548720.0,&quot;followCount&quot;:25,&quot;eventName&quot;:&quot;【会议报道】圣安东尼奥乳腺癌研讨会系列报道&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1510548720.0,&quot;collectCount&quot;:38,&quot;desc&quot;:&quot;2017年12月5-9日，圣安东尼奥乳腺癌研讨会即将在美国圣安东尼奥召开，届时肿瘤资讯将会给您带来最新最快的的资讯，敬请关注。&quot;},{&quot;eventID&quot;:219,&quot;updateTime&quot;:1511425947.0,&quot;eventStartTime&quot;:1510549260.0,&quot;followCount&quot;:21,&quot;eventName&quot;:&quot;【深度报道】2017年（ASH）美国血液学年会&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1510549260.0,&quot;collectCount&quot;:28,&quot;desc&quot;:&quot;2017年12月9 - 12日，第五十届ASH年会暨博览会将会在美国亚特兰大召开。届时肿瘤资讯将会带来第一手资讯，敬请期待！&quot;},{&quot;eventID&quot;:220,&quot;updateTime&quot;:1510624740.0,&quot;eventStartTime&quot;:1510624140.0,&quot;followCount&quot;:112,&quot;eventName&quot;:&quot;中山大学肿瘤防治中心-外科住院医师规范化培训课程&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1510624140.0,&quot;collectCount&quot;:121,&quot;desc&quot;:&quot;中山大学附属肿瘤医院与良医汇-肿瘤资讯联合推出了一套针对外科方向住院医师规范化培训课程，适合基层肿瘤科医生、住培生以及在校肿瘤医学生观看学习。 内容包括肿瘤外科学基础知识，技能实操，常见瘤种，临床实用方法等共计42节精彩课程。 来自中山大学附属肿瘤医院18个科室30+大咖为大家倾力呈现！课程完全免费，大家可以反复学习。&quot;},{&quot;eventID&quot;:203,&quot;updateTime&quot;:1510105908.0,&quot;eventStartTime&quot;:1507345860.0,&quot;followCount&quot;:130,&quot;eventName&quot;:&quot;【2017世界肺癌大会（WCLC）】&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1507345860.0,&quot;collectCount&quot;:128,&quot;desc&quot;:&quot;2017世界肺癌大会（WCLC）在日本横滨举行！【肿瘤资讯】为你带来第一手现场报道！敬请关注&quot;},{&quot;eventID&quot;:217,&quot;updateTime&quot;:1509605470.0,&quot;eventStartTime&quot;:1509601440.0,&quot;followCount&quot;:0,&quot;eventName&quot;:&quot;2018 年欧洲肿瘤医学协会会议（ESMO）&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1509601440.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;10月19日-23日欧洲肿瘤医学协会会议将在德国-慕尼黑 召开，届时肿瘤资讯将带来一手资讯&quot;},{&quot;eventID&quot;:216,&quot;updateTime&quot;:1509605371.0,&quot;eventStartTime&quot;:1509601320.0,&quot;followCount&quot;:0,&quot;eventName&quot;:&quot;2018年第19届世界肺癌大会（WCLC_IASLC）&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1509601320.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;9月23-26日第19届世界肺癌大会将在加拿大 多伦多召开&quot;},{&quot;eventID&quot;:215,&quot;updateTime&quot;:1509605297.0,&quot;eventStartTime&quot;:1509601200.0,&quot;followCount&quot;:0,&quot;eventName&quot;:&quot;2018年美国临床肿瘤学会年会(ASCO)&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1509601200.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;6月1日-5日美国临床肿瘤学会年会(ASCO)将在美国-芝加哥盛大召开&quot;},{&quot;eventID&quot;:213,&quot;updateTime&quot;:1509605245.0,&quot;eventStartTime&quot;:1509600960.0,&quot;followCount&quot;:0,&quot;eventName&quot;:&quot;2018 年欧洲肺癌大会（ELCC）&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1509600960.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;2018 年 4 月 11 日-14 日将会在瑞士-日内瓦举行，敬请期待&quot;},{&quot;eventID&quot;:208,&quot;updateTime&quot;:1509439059.0,&quot;eventStartTime&quot;:1508994960.0,&quot;followCount&quot;:287,&quot;eventName&quot;:&quot;龙哥查房&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1508994960.0,&quot;collectCount&quot;:242,&quot;desc&quot;:&quot;广东省人民医院肺科团队是吴一龙院长带领下的一支精英团队，在肺癌的诊疗、研究等领域一直引领着时代的步伐。从2003年起，每周三吴院长都会带领多学科团队进行大查房和病例讨论（大型会议和节假日除外），这个模式一坚持就是十几年。从临床研究到真实世界的循证医学应用，吴院长一直是躬身力行的倡导者和实践者。 广东省医的肺科大查房常规分为：MDT病例讨论，查房，读书报告会等几个部分。 从11月起，肿瘤资讯会将广东省医肺科大查房中的MDT病例讨论部分搬到网络，以图文，音频，视频，甚至直播的形式进行连载！ 让全国的肿瘤医生都有机会跟着吴院长学习规范的循证医学诊疗思维模式，最终造福肿瘤患者。&quot;},{&quot;eventID&quot;:171,&quot;updateTime&quot;:1509433740.0,&quot;eventStartTime&quot;:1492688460.0,&quot;followCount&quot;:33,&quot;eventName&quot;:&quot;【良医汇-全球会诊中心】会诊案例分享&quot;,&quot;eventAddress&quot;:&quot;上海&quot;,&quot;eventEndTime&quot;:1492688460.0,&quot;collectCount&quot;:28,&quot;desc&quot;:&quot;【良医汇全球会诊中心】是良医汇旗下专业肿瘤会诊平台，良医汇与国内外权威肿瘤医院及肿瘤医生保持长期合作，患者可通过会诊中心，在全球范围内选择最专业的医院，最权威的医生进行肿瘤会诊！让大牌专家为您量身定做治疗方案！&quot;},{&quot;eventID&quot;:206,&quot;updateTime&quot;:1509433719.0,&quot;eventStartTime&quot;:1508131740.0,&quot;followCount&quot;:22,&quot;eventName&quot;:&quot;国家癌症中心【第三届中美肿瘤诊断病理高峰论坛】&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1508131740.0,&quot;collectCount&quot;:32,&quot;desc&quot;:&quot;国家癌症中心 第三届中美肿瘤诊断病理高峰论坛，与您相约北京，不见不散&quot;},{&quot;eventID&quot;:154,&quot;updateTime&quot;:1509433003.0,&quot;eventStartTime&quot;:1489287120.0,&quot;followCount&quot;:272,&quot;eventName&quot;:&quot;【欢迎推荐】38个新药临床试验招募患者！覆盖多个瘤种&quot;,&quot;eventAddress&quot;:&quot;全国各分中心&quot;,&quot;eventEndTime&quot;:1512010320.0,&quot;collectCount&quot;:144,&quot;desc&quot;:&quot;肿瘤治疗是一场攻坚战，不应该放弃任何机会。对于不少患者来说，参加新药临床试验是一个可能获益的方式。国内外几乎所有的专家，对于标准治疗失败，或者没有标准治疗的患者，都会积极推荐参加临床试验。 【良医汇-肿瘤资讯】已建立临床试验推荐中心，目前已有38个肿瘤相关药物临床试验，覆盖肺癌、肝癌、乳腺癌、胃腺癌、食管鳞癌、鼻咽癌、头颈部鳞癌，黑色素瘤、骨髓瘤、前列腺癌、白血病、淋巴瘤及神经内分泌肿瘤等多个瘤种。各位医生朋友，如果您身边有合适参与临床试验的患者，请随时推荐给我们！（推荐方式见文末）&quot;},{&quot;eventID&quot;:198,&quot;updateTime&quot;:1509432802.0,&quot;eventStartTime&quot;:1505886840.0,&quot;followCount&quot;:118,&quot;eventName&quot;:&quot;【灸手可热】2017 CSCO大会盛况转播室&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1505886840.0,&quot;collectCount&quot;:86,&quot;desc&quot;:&quot;2017 CSCO中国临床肿瘤学会9月26日将在厦门火热开启，届时肿瘤资讯小编实时报道，圆您不能现场观看之遗憾，为大家带来第一手资讯。敬请期待！&quot;},{&quot;eventID&quot;:175,&quot;updateTime&quot;:1509432775.0,&quot;eventStartTime&quot;:1494324540.0,&quot;followCount&quot;:450,&quot;eventName&quot;:&quot;中山大学肿瘤防治中心-肿瘤学-公开课&quot;,&quot;eventAddress&quot;:&quot;中国广州&quot;,&quot;eventEndTime&quot;:1499681340.0,&quot;collectCount&quot;:474,&quot;desc&quot;:&quot;中山大学肿瘤防治中心与良医汇-肿瘤资讯联合推出了一套针对肿瘤科医生的全套培训课程——《肿瘤学》。  该课程是根据肿瘤科医生的培养要求，内容经过精心筛选，并由肿瘤专家精彩讲授，适合从事肿瘤专业的基层医生、培训医师、进修医师以及在校肿瘤学医学生观看学习的精品课程。  内容包括肿瘤学基础理论知识，临床方法的应用，常见肿瘤的诊治等全面而精彩的课程。5月10日-6月30日认证的医生，均免费赠送最新神秘资料大礼包一份。&quot;},{&quot;eventID&quot;:158,&quot;updateTime&quot;:1509432509.0,&quot;eventStartTime&quot;:1490529600.0,&quot;followCount&quot;:284,&quot;eventName&quot;:&quot;复旦大学肿瘤医院-肿瘤内科-精品课程&quot;,&quot;eventAddress&quot;:&quot;上海&quot;,&quot;eventEndTime&quot;:1493653920.0,&quot;collectCount&quot;:370,&quot;desc&quot;:&quot;肿瘤内科创建于1958年，在肿瘤医院内首先成立了化疗小组，1965年发展为独立的科室，是国内最早成立的肿瘤内科，目前已成为集医疗、护理、科研、教学为一体的多学科综合治疗团队。五十年来，经过几代人的艰苦努力，肿瘤内科不断发展壮大，始终保持其在全国的领先地位和很强的影响力。特别是近五年来，肿瘤内科团队积极进取，团结协作，不管是科室规模还是学术水平都有了很大的提高，医、教、研各方面都展现了前所未有的良好局面与发展态势。&quot;},{&quot;eventID&quot;:211,&quot;updateTime&quot;:1509432149.0,&quot;eventStartTime&quot;:1509428400.0,&quot;followCount&quot;:1,&quot;eventName&quot;:&quot;第四届天津血液肿瘤高峰论坛&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1509428400.0,&quot;collectCount&quot;:2,&quot;desc&quot;:&quot;2017.11.03-2017.11.05&quot;},{&quot;eventID&quot;:210,&quot;updateTime&quot;:1509418977.0,&quot;eventStartTime&quot;:1509414420.0,&quot;followCount&quot;:8,&quot;eventName&quot;:&quot;中国抗癌协会儿童肿瘤&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1509414420.0,&quot;collectCount&quot;:6,&quot;desc&quot;:&quot;儿童常见疾病大集合&quot;},{&quot;eventID&quot;:209,&quot;updateTime&quot;:1509416129.0,&quot;eventStartTime&quot;:1509415920.0,&quot;followCount&quot;:0,&quot;eventName&quot;:&quot;跟劲松教授一起读文献（乳腺癌）&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1509415920.0,&quot;collectCount&quot;:0,&quot;desc&quot;:&quot;测试测试&quot;},{&quot;eventID&quot;:207,&quot;updateTime&quot;:1508813134.0,&quot;eventStartTime&quot;:1508808780.0,&quot;followCount&quot;:70,&quot;eventName&quot;:&quot;中国抗癌协会乳腺癌诊治指南与规范&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1508808780.0,&quot;collectCount&quot;:112,&quot;desc&quot;:&quot;中国抗癌协会乳腺癌诊治指南与规范&quot;},{&quot;eventID&quot;:205,&quot;updateTime&quot;:1507857706.0,&quot;eventStartTime&quot;:1507770180.0,&quot;followCount&quot;:10,&quot;eventName&quot;:&quot;【软组织肉瘤高峰论坛专家访谈】&quot;,&quot;eventAddress&quot;:&quot;&quot;,&quot;eventEndTime&quot;:1507770180.0,&quot;collectCount&quot;:16,&quot;desc&quot;:&quot;2017年9月15-17日，由上海市抗癌协会、上海市抗癌协会肉瘤专业委员会及中国抗癌协会肉瘤专业委员会软组织肿瘤学组主办，复旦大学附属肿瘤医院及中山医院联合承办的“2017年复旦大学软组织肉瘤高峰论坛”在上海成功举办。&quot;}],&quot;responseStatus&quot;:{&quot;ack&quot;:0,&quot;errorcode&quot;:0,&quot;errors&quot;:[],&quot;extensions&quot;:[]},&quot;totalCount&quot;:257}</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <java.net.URL>http://bos.liangyihui.net/bos/event/eventlist</java.net.URL>
+</httpSample>
+
+<httpSample t="952" it="0" lt="282" ct="74" ts="1524478467716" s="true" lb="HTTP请求" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="71622" sby="367" ng="1" na="1" hn="yuhualaideMacBook-Pro.local">
+  <httpSample t="283" it="0" lt="282" ct="74" ts="1524478467716" s="true" lb="http://xqtesting.blog.51cto.com/" rc="301" rm="Moved Permanently" tn="线程组 1-1" dt="text" by="493" sby="189" ng="1" na="1" hn="yuhualaideMacBook-Pro.local">
+    <responseHeader class="java.lang.String">HTTP/1.1 301 Moved Permanently
+Transfer-Encoding: chunked
+Content-Type: text/html
+Date: Mon, 23 Apr 2018 10:14:27 GMT
+Keep-Alive: timeout=38
+Load-Balancing: web08.hb2
+Location: http://blog.51cto.com/xqtesting
+Server: nginx
+Set-Cookie: acw_tc=AQAAAP7Td3VSsw4Ahkv2Os2yLbTEI1xh; Path=/; HttpOnly
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: keep-alive
+Host: xqtesting.blog.51cto.com
+Proxy-Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+</requestHeader>
+    <responseData class="java.lang.String">&lt;html&gt;&#xd;
+&lt;head&gt;&lt;title&gt;301 Moved Permanently&lt;/title&gt;&lt;/head&gt;&#xd;
+&lt;body bgcolor=&quot;white&quot;&gt;&#xd;
+&lt;center&gt;&lt;h1&gt;301 Moved Permanently&lt;/h1&gt;&lt;/center&gt;&#xd;
+&lt;hr&gt;&lt;center&gt;nginx&lt;/center&gt;&#xd;
+&lt;/body&gt;&#xd;
+&lt;/html&gt;&#xd;
+</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <java.net.URL>http://xqtesting.blog.51cto.com/</java.net.URL>
+  </httpSample>
+  <httpSample t="666" it="0" lt="636" ct="1" ts="1524478468002" s="true" lb="http://blog.51cto.com/xqtesting" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="71129" sby="178" ng="1" na="1" hn="yuhualaideMacBook-Pro.local">
+    <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 23 Apr 2018 10:14:28 GMT
+Keep-Alive: timeout=38
+Load-Balancing: web07.hb2
+Server: nginx
+Set-Cookie: acw_tc=AQAAAEZ6d3R4+AAAhkv2OldUIw7hJfMq; Path=/; HttpOnly
+Set-Cookie: pub_sauth1=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.51cto.com
+Set-Cookie: pub_sauth2=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.51cto.com
+Set-Cookie: bloglog1109528=16e60257d694f476f6af65ad2a060fcf63584e8eb9fde5db0c528f5fcd93cf93a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22bloglog1109528%22%3Bi%3A1%3Ba%3A1%3A%7Bs%3A8%3A%22c4626073%22%3Bi%3A1524478468%3B%7D%7D; expires=Mon, 23-Apr-2018 10:14:38 GMT; Max-Age=10; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.1.9
+</responseHeader>
+    <requestHeader class="java.lang.String">Connection: keep-alive
+Host: blog.51cto.com
+Proxy-Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+</requestHeader>
+    <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;zh-CN&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+    &lt;link type=&quot;favicon&quot; rel=&quot;shortcut icon&quot; href=&quot;/favicon.ico&quot; /&gt;
+        &lt;title&gt;小强性能自动化测试品牌-51CTO博客&lt;/title&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;小强性能自动化测试品牌,软件测试基础,手机APP测试,性能测试LR &amp;amp;amp; Jmeter,自动化接口 &amp;amp;amp; python,性能 &amp;amp;amp; 自动化测试培训班,测试管理,测试自学手册,安全测试,产品经理,LANMP,职场·薪水·潜规则,小强IT游记,交流群,免费公开课,大数据测试,各类模板文件,软件包下载,51CTO博客&quot;&gt;
+&lt;meta name=&quot;description&quot; content=&quot;小强性能自动化测试品牌(http://blog.51cto.com/xqtesting)&quot;&gt;    &lt;link href=&quot;http://static1.51cto.com/edu/blog/css/base.css?v=1.0.1.2&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://static1.51cto.com/edu/blog/css/header.css?v=1.0.1.9&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://static1.51cto.com/edu/blog/css/other.css?v=1.0.0.5&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://static1.51cto.com/edu/blog/css/list_tab.css?v=1.0.0.5&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://static1.51cto.com/edu/blog/css/right.css?v=1.0.2.8&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://static1.51cto.com/edu/blog/css/blog_my.css?v=1.0.1.3&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;script src=&quot;http://static1.51cto.com/edu/center/js/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/cookie.js&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/login.js?v=1.0.0.6&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/common.js?v=1.0.0.7&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/mbox.js&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/follow.js?v=1.0.0.8&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/vip.js?v=1.0.0.1&quot;&gt;&lt;/script&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;img src=&quot;http://static1.51cto.com/edu/blog/mobile/images/share_default.jpg&quot; border=&quot;0&quot; style=&quot;width:0; height:0; position:absolute;&quot;&gt;
+&lt;div class=&quot;Header&quot;&gt;
+  &lt;div class=&quot;Page &quot;&gt;
+    &lt;h1 class=&quot;Logo&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/&quot;&gt;Logo&lt;/a&gt;&lt;/h1&gt;
+    &lt;ul class=&quot;Navigates fl&quot;&gt;
+      &lt;li &gt;&lt;a href=&quot;http://blog.51cto.com/&quot;&gt;首页&lt;/a&gt;&lt;/li&gt;
+      &lt;li &gt;&lt;a href=&quot;http://blog.51cto.com/original&quot;&gt;文章&lt;/a&gt;&lt;/li&gt;
+            &lt;li class=&quot;&quot;&gt;
+        &lt;a href=&quot;http://blog.51cto.com/expert&quot;&gt;专家&lt;/a&gt;
+      &lt;/li&gt;
+            &lt;li &gt;&lt;a href=&quot;http://blog.51cto.com/blogger/index&quot;&gt;我的博客&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul class=&quot;Navigates Navigates-right fr&quot;&gt;
+      &lt;li class=&quot;more maps&quot;&gt;
+        &lt;a href=&quot;javascript:void(0);&quot;&gt;网站导航&lt;/a&gt;
+        &lt;div&gt;
+            &lt;a href=&quot;http://edu.51cto.com&quot; target=&quot;_blank&quot;&gt;学院&lt;/a&gt;
+            &lt;a href=&quot;http://blog.51cto.com&quot; target=&quot;_blank&quot;&gt;博客&lt;/a&gt;
+            &lt;a href=&quot;http://down.51cto.com&quot; target=&quot;_blank&quot;&gt;下载&lt;/a&gt;
+            &lt;a href=&quot;http://home.51cto.com&quot; target=&quot;_blank&quot;&gt;家园&lt;/a&gt;
+            &lt;a href=&quot;http://bbs.51cto.com&quot; target=&quot;_blank&quot;&gt;论坛&lt;/a&gt;
+            &lt;a href=&quot;http://x.51cto.com&quot; target=&quot;_blank&quot;&gt;CTO训练营&lt;/a&gt;
+            &lt;a href=&quot; http://club.51cto.com?blog&quot; target=&quot;_blank&quot;&gt;CTO俱乐部&lt;/a&gt;
+            &lt;a href=&quot;http://wot.51cto.com&quot; target=&quot;_blank&quot;&gt;WOT&lt;/a&gt;
+            &lt;a href=&quot;http://www.51cto.com&quot; target=&quot;_blank&quot;&gt;51CTO&lt;/a&gt;
+            &lt;i class=&quot;arrow&quot;&gt;&lt;/i&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+                &lt;li&gt;&lt;a href=&quot;http://home.51cto.com/user/register?reback=http%253A%252F%252Fblog.51cto.com%252Fxqtesting&quot; target=&quot;_self&quot;&gt;注册&lt;/a&gt;&lt;/li&gt;
+          &lt;li class=&quot;login&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/user/login?reback=http%3A%2F%2Fblog.51cto.com%2Fxqtesting&quot; target=&quot;_self&quot;&gt;登录&lt;/a&gt;&lt;/li&gt;
+                        &lt;li class=&quot;mRead&quot;&gt;
+          &lt;a href=&quot;javascript:;&quot;&gt;手机阅读&lt;/a&gt;
+          &lt;div&gt;
+            &lt;img src=&quot;http://static1.51cto.com/edu/blog/images/blog_qr.png&quot;&gt;
+            &lt;p&gt;扫一扫体验手机阅读&lt;/p&gt;
+            &lt;i class=&quot;arrow&quot;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+            &lt;li class=&quot;search&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/search/index&quot;  target=&quot;_self&quot;&gt;搜索&lt;/a&gt;&lt;/li&gt;
+                  &lt;li class=&quot;write&quot;&gt;&lt;a href=&quot;javascript:;&quot; onClick=&quot;Login()&quot;&gt;写文章&lt;/a&gt;&lt;/li&gt;
+                  &lt;/ul&gt;
+          &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+    var isLogin = &apos;0&apos;;
+    var userId = &apos;&apos;;
+    var imgpath = &apos;http://i2.51cto.com/&apos;;
+    var BLOG_URL = &apos;http://blog.51cto.com/&apos;;
+    var msg_num_url = &apos;http://blog.51cto.com/index/ajax-msg-num&apos;;
+    setTimeout(function(){
+            $.ajax({
+                url:msg_num_url,
+                type:&quot;get&quot;,
+                dataType:&apos;json&apos;,
+                success:function(res){
+                    if(res.status == &apos;0&apos;){
+                       //
+                       var hasNewMsg = false;
+                       if(res.data.msgNum &gt; 0 &amp;&amp; !$(&apos;#myMsg i&apos;).hasClass(&apos;dot&apos;)){
+                            $(&apos;#myMsg i&apos;).addClass(&apos;dot&apos;);
+                            hasNewMsg = true;
+                       }
+                       if(res.data.notifyNum &gt; 0 &amp;&amp; !$(&apos;#myNotify i&apos;).hasClass(&apos;dot&apos;)){
+                           $(&apos;#myNotify i&apos;).addClass(&apos;dot&apos;);
+                           hasNewMsg = true;
+                       }
+                       if(res.data.recommend_new &gt; 0 &amp;&amp; !$(&apos;#myRecommend i&apos;).hasClass(&apos;dot&apos;)){
+                           $(&apos;#myRecommend i&apos;).addClass(&apos;dot&apos;);
+                           hasNewMsg = true;
+                       }
+                       if(hasNewMsg &amp;&amp; !$(&apos;#myAllMsg i&apos;).hasClass(&apos;dot&apos;)){
+                           $(&apos;#myAllMsg i&apos;).addClass(&apos;dot&apos;);
+                       }
+                    }
+                    
+                }
+            });
+    },70);
+&lt;/script&gt;&lt;div class=&quot;Content-box&quot;&gt;
+    &lt;script&gt;
+var is_reload = true;
+$(&quot;.follow-top&quot;).click(function() {
+    is_reload = false;
+})
+function FollowBtnSucc(e){//1:未关注,2:已关注,3:互相关注
+    if(e==2||e==3){
+        $.post(&apos;/index/wxbind&apos;,{uid:userId},function(res){
+            if(getCookie(&apos;follow1&apos;) || getCookie(&apos;follow2&apos;))return false;
+            if(res.status==1){
+                if(res.data.wxBind == 0){//没绑定
+                    box1()
+                }else{
+                    box2()
+                }
+            }
+        },&apos;json&apos;)
+    }else{
+        if(is_reload) {
+            window.location.reload();
+        }
+    }
+    is_reload = true;
+}
+&lt;/script&gt;
+&lt;div class=&quot;blog-my-bg&quot;&gt;
+	&lt;!-- header start --&gt;
+	&lt;div class=&quot;header-bg&quot;&gt;
+		&lt;div class=&quot;header Page&quot;&gt;
+			&lt;div class=&quot;header-top&quot;&gt;
+                &lt;div class=&quot;is-vip-bg-2 fl&quot;&gt;
+    				&lt;a href=&quot;javascript:;&quot; class=&quot;a-img&quot;&gt;
+                        &lt;img class=&quot;is-vip-img is-vip-img-1&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+    				&lt;/a&gt;
+                &lt;/div&gt;
+				&lt;div class=&quot;right&quot;&gt;
+					&lt;a href=&quot;javascript:;&quot; class=&quot;name&quot;&gt;小强性能自动化测试品牌&lt;/a&gt;
+					&lt;ul class=&quot;number-list&quot;&gt;
+						&lt;li&gt;&lt;span&gt;465W+&lt;/span&gt;&lt;p&gt;人气&lt;/p&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;span&gt;687&lt;/span&gt;&lt;p&gt;文章&lt;/p&gt;&lt;/li&gt;
+                                                    &lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?type=2&quot; target=&quot;_blank&quot;&gt;0&lt;/a&gt;&lt;p&gt;关注&lt;/p&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?type=3&quot; target=&quot;_blank&quot;&gt;139&lt;/a&gt;&lt;p&gt;粉丝&lt;/p&gt;&lt;/li&gt;
+                        						&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+					&lt;/ul&gt;
+					&lt;ul class=&quot;icon-list&quot;&gt;
+						                        &lt;li class=&quot;icon-list-4&quot;&gt;推荐博客&lt;/li&gt;                        						&lt;li class=&quot;icon-list-2&quot;&gt;讲师&lt;/li&gt;												&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+					&lt;/ul&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;right-msg&quot;&gt;
+                                                                        &lt;a id=&quot;checkFollow_t_4626073&quot; class=&quot;follow-1 follow-top checkFollow-btn on&quot; href=&quot;javascript:;&quot;&gt;关注&lt;/a&gt;
+                        
+                        &lt;script&gt;
+                            FollowBtn = new Follow($(&apos;#checkFollow_t_4626073&apos;),&apos;4626073&apos;,&apos;1&apos;,[&apos;on&apos;,&apos;in&apos;,&apos;mutual&apos;,&apos;off&apos;])
+                            FollowBtn.success=FollowBtnSucc
+                        &lt;/script&gt;
+                    					&lt;a class=&quot;siMsg&quot; href=&quot;http://home.51cto.com/space?uid=4626073&quot; target=&quot;_blank&quot;&gt;私信&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;header-bottom&quot;&gt;
+				&lt;ul class=&quot;left-list fl&quot;&gt;
+					&lt;li&gt;原创&amp;nbsp;311&lt;/li&gt;
+					&lt;li&gt;翻译&amp;nbsp;0&lt;/li&gt;
+					&lt;li&gt;转载&amp;nbsp;376&lt;/li&gt;
+                                            &lt;li&gt;评论&amp;nbsp;196&lt;/li&gt;
+                        &lt;li&gt;点赞&amp;nbsp;1956&lt;/li&gt;
+                    					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+				&lt;/ul&gt;
+				&lt;div class=&quot;bdsharebuttonbox right-list fr&quot;&gt;
+				  &lt;p&gt;分享：&lt;/p&gt;
+				  &lt;a href=&quot;javascript:;&quot; class=&quot;bds_sqq&quot; data-cmd=&quot;sqq&quot; title=&quot;分享到QQ好友&quot;&gt;&lt;/a&gt;
+				  &lt;a href=&quot;javascript:;&quot; class=&quot;bds_tsina&quot; data-cmd=&quot;tsina&quot; title=&quot;分享到新浪微博&quot;&gt;&lt;/a&gt;
+				  &lt;a href=&quot;javascript:;&quot; class=&quot;bds_weixin&quot; data-cmd=&quot;weixin&quot; title=&quot;分享到微信&quot;&gt;&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;Page blog-my&quot;&gt;
+
+        &lt;!-- left --&gt;
+        &lt;div class=&quot;Left&quot;&gt;
+        	&lt;!-- tab --&gt;
+        	&lt;ul class=&quot;blog-my-tab&quot;&gt;
+        		&lt;li class=&quot;on&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?type=1&quot;&gt;文章&lt;/a&gt;&lt;/li&gt;
+        		&lt;li &gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?type=2&quot;&gt;关注&lt;/a&gt;&lt;/li&gt;
+        		&lt;li &gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?type=3&quot;&gt;粉丝&lt;/a&gt;&lt;/li&gt;
+        		&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+        	&lt;/ul&gt;
+			&lt;!-- title --&gt;
+                            &lt;ul class=&quot;blog-my-title&quot;&gt;
+                    &lt;li class=&quot;on&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting&quot;&gt;主页&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category12.html&quot;&gt;软件测试基础&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category3.html&quot;&gt;手机APP测试&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category4.html&quot;&gt;性能测试LR &amp;amp; Jmeter&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category6.html&quot;&gt;自动化接口 &amp;amp; python&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category34.html&quot;&gt;性能 &amp;amp; 自动化测试培训班&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category30.html&quot;&gt;测试管理&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category31.html&quot;&gt;测试自学手册&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category32.html&quot;&gt;安全测试&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category26.html&quot;&gt;产品经理&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category25.html&quot;&gt;LANMP&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category36.html&quot;&gt;职场·薪水·潜规则&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category28.html&quot;&gt;小强IT游记&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category35.html&quot;&gt;交流群&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category37.html&quot;&gt;免费公开课&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category38.html&quot;&gt;大数据测试&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category39.html&quot;&gt;各类模板文件&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category40.html&quot;&gt;软件包下载&lt;/a&gt;&lt;/li&gt;
+                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                &lt;/ul&gt;
+			&lt;div class=&quot;artical-tit&quot;&gt;
+
+				&lt;!-- &lt;p class=&quot;fl&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting&quot;&gt;全部文章&lt;/a&gt;&lt;/p&gt; --&gt;
+
+                &lt;form class=&quot;fr form-search&quot; method=&apos;get&apos; action=&quot;http://blog.51cto.com/search/user&quot; target=&quot;_blank&quot;&gt;
+                    &lt;input type=&quot;hidden&quot; name=&quot;uid&quot; value=&quot;4626073&quot;&gt;
+                    &lt;input class=&quot;select-input fr&quot; type=&quot;text&quot; name=&quot;q&quot; placeholder=&quot;请输入搜索关键词&quot; maxlength=&quot;38&quot;&gt;
+                    &lt;div class=&quot;pulldown select-down time fl&quot; style=&quot;display: none&quot;&gt; 
+                    	&lt;p&gt;发布时间&lt;/p&gt;
+                    	&lt;i class=&quot;arrow&quot;&gt;&lt;/i&gt;
+                    	&lt;ul class=&quot;pulldown-list&quot; for=&quot;time&quot;&gt;
+                    		&lt;li&gt;&lt;a href=&quot;javascript:;&quot;&gt;三个月内&lt;/a&gt;&lt;/li&gt;
+                    		&lt;li&gt;&lt;a href=&quot;javascript:;&quot;&gt;六个月内&lt;/a&gt;&lt;/li&gt;
+                    		&lt;li&gt;&lt;a href=&quot;javascript:;&quot;&gt;一年内&lt;/a&gt;&lt;/li&gt;
+                    		&lt;li&gt;&lt;a href=&quot;javascript:;&quot;&gt;三年内&lt;/a&gt;&lt;/li&gt;
+                    		&lt;li&gt;&lt;a href=&quot;javascript:;&quot;&gt;五年内&lt;/a&gt;&lt;/li&gt;
+                    	&lt;/ul&gt;
+                    	&lt;!-- &lt;input name=&quot;time&quot; id=&quot;time&quot; value=&quot;&quot; type=&quot;hidden&quot;&gt; --&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;pulldown select-down filtrate fl&quot; style=&quot;display: none&quot;&gt;
+	                    &lt;p&gt;文章状态&lt;/p&gt;
+	                    &lt;i class=&quot;arrow&quot;&gt;&lt;/i&gt;
+	                    &lt;ul class=&quot;pulldown-list&quot; for=&quot;filtrate_id&quot;&gt;
+	                    	                    	&lt;li value=&quot;全部&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=&quot;&gt;全部&lt;/a&gt;&lt;/li&gt;
+	                        
+			              				                	&lt;li value=&quot;推荐&quot; data-id=&quot;3&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=3&quot;&gt;推荐&lt;/a&gt;&lt;/li&gt;
+			              				                	&lt;li value=&quot;原创&quot; data-id=&quot;4&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=4&quot;&gt;原创&lt;/a&gt;&lt;/li&gt;
+			              				                	&lt;li value=&quot;转载&quot; data-id=&quot;5&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=5&quot;&gt;转载&lt;/a&gt;&lt;/li&gt;
+			              				                	&lt;li value=&quot;翻译&quot; data-id=&quot;6&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=6&quot;&gt;翻译&lt;/a&gt;&lt;/li&gt;
+			              							&lt;/ul&gt;
+						&lt;!-- &lt;input name=&quot;filtrate_id&quot; id=&quot;filtrate_id&quot; value=&quot;&quot; type=&quot;hidden&quot;&gt; --&gt;
+	                &lt;/div&gt;
+	                &lt;div class=&quot;pulldown select-down filtrate fl&quot;&gt;
+	                    						&lt;p&gt;全部&lt;/p&gt;
+	                    	                    &lt;i class=&quot;arrow&quot;&gt;&lt;/i&gt;
+	                    &lt;ul class=&quot;pulldown-list&quot; for=&quot;filtrate_id&quot;&gt;
+	                    	                    	&lt;li value=&quot;全部&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=&quot;&gt;全部&lt;/a&gt;&lt;/li&gt;
+	                        
+			              				                &lt;li value=&quot;推荐&quot; data-id=&quot;3&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=3&quot;&gt;推荐&lt;/a&gt;&lt;/li&gt;
+			              				                &lt;li value=&quot;原创&quot; data-id=&quot;4&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=4&quot;&gt;原创&lt;/a&gt;&lt;/li&gt;
+			              				                &lt;li value=&quot;转载&quot; data-id=&quot;5&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=5&quot;&gt;转载&lt;/a&gt;&lt;/li&gt;
+			              				                &lt;li value=&quot;翻译&quot; data-id=&quot;6&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=6&quot;&gt;翻译&lt;/a&gt;&lt;/li&gt;
+			              							&lt;/ul&gt;
+						&lt;!--&lt;input name=&quot;filtrate_id&quot; id=&quot;filtrate_id&quot; value=&quot;&quot; type=&quot;hidden&quot;&gt;--&gt;
+	                &lt;/div&gt;
+                &lt;/form&gt;
+				&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            
+
+            &lt;!--文章的显示逻辑--&gt;
+                                            &lt;ul class=&quot;artical-list&quot;&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2017-10-30 08:16:06&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1977279&quot;&gt;12&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1977279&quot;&gt;
+                            测试工程师值得被尊重！不知你是否也有此共鸣！                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;内心持久的声音测试工程师值得被尊重，是我一直以来内心的声音，这个声音憋了很久很久，所以本文觉得不是标题党，而是实实在在的内心想法。当然，有可能偏激，有可能太泛泛，也有可能说的都是P话，但我相信会直接你的内心，产生共鸣！如果有说的不妥的地方，望各位看官多多包涵，咱都是文明人，你懂的~长久以来被认为门槛低多么痛的领悟！我也都想抽自己嘴巴！早年我自己都说测试入门门槛低什么什么的，现在想想，唉。首先，不否&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;4W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;3&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;2&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2017-07-13 07:56:20&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1946934&quot;&gt;7&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1946934&quot;&gt;
+                            送给那些有代码基础但仍旧不会学自动化测试的朋友们                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;我经常遇到这样的场景：老师，我有python or java基础，但还是不知道怎么写代码？老师，我有代码基础，简单的不用学，我想学高级的。老师，我有编程基础，但是我看不懂代码。。。。。。诸如此类的问题，我想大家也一定有这些内心的OS面对这样的场景，这样的问题，我也问了不少童鞋，得到的答案其实听悲哀的。莫过于说些代码太难了，不会不懂；这个代码写的不详细导致我看不懂；我有编程基础的，是你写的代码太烂了&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;1W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;8&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;10&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2015-06-30 14:34:16&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1669386&quot;&gt;8&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1669386&quot;&gt;
+                            高级软件测试自学视频（性能、自动化、安全、手机app、管理）                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;恭喜“小强系列测试课程获得国家版权认证保护”,我们从不BB，只动手干！《小强软件测试疯狂讲义》书籍出版，各大网店均可购买“三级火箭”学习方式1、参加培训班，由老师亲自上课进行讲解，课后仍提供视频，所有学员享有免费、不限次数、永久重学的福利，直到学会为止！小强性能测试和python自动化测试常年招生中，报名QQ：2083503238。咨询前请先到http://xqtesting.sxl.cn看下介绍&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;4W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;3&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2017-02-27 08:01:00&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1901525&quot;&gt;3&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1901525&quot;&gt;
+                            10年手工测试的迷茫，值得每个人深思                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;百度搜索：小强测试品牌&amp;nbsp;交流群：229390571&amp;nbsp;在荔枝FM手机客户端中搜索“挨踢脱口秀”进行收听引子请准备好我要开始装逼了！！！！！NO，今天不装逼。。。实实在在的和大家分享下。为什么会写这篇文章呢？纯属是因为前段时间有个朋友在QQ上和我交流，说他干了10年的手工测试了，现在还能不能转型。说实在的，当时我听的一脸懵逼，于是就诞生了这篇文章！以下内容纯属个人观点，不喜勿喷，有&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;1W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;1&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2016-03-10 08:04:26&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1749414&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1749414&quot;&gt;
+                            【招生中】小强性能测试实战班5月27号开课，已经有小伙伴报名了哦，名额有限快到我碗里来                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;经过万人验证的课程体系，不装逼，以最真实和接地气的方式展现。TA是你转型和提升的绝佳途径，可以帮助你完善整套的知识体系，课后提供视频，且可永久免费重学，是小白的首选！具体介绍请看正文，你想知道的都在里面哦！&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;5W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;1&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2016-03-03 22:03:01&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1747358&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1747358&quot;&gt;
+                            招生中 | 小强自动化测试开发9月班招生中，6月底前报名优惠500                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;帮你完成从0到1的蜕变，打造全栈的自动化测试能力，可独立完成各类自动化测试框架的编写。全栈内容包括接口测试、web端selenium、手机端Appium等，全部基于python并最终可独立编写出来全部的框架从而直接使用！让你“码”上爽起来！具体介绍请看正文，你想知道的都在里面哈！&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;2W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2016-07-14 23:08:31&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1826540&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1826540&quot;&gt;
+                            小强测试品牌培训班学员成果展示                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;小强测试在2015年底开始以独立品牌运营受到了广大朋友的支持和点赞，才使得我们在不到一年的时间里迅速发展与壮大。在这个过程中我们有过艰难也有过快乐，但更多的还是沉默踏踏实实的做事情。今天就将一部分小小的成果展示给大家，感谢大家一直以来的支持，也感谢学员们一直以来的坚持！&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;1W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：1 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2106526&quot;&gt;0&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2106526&quot;&gt;
+                            有关软件测试的五大谣言                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe谣传1：测试无聊一件单调且无聊的事，作为测试的一个传闻，频繁见诸于主流媒体文章中，这些文章把测试者比作软件产业的装配线工人。而事实上，测试工作每天都呈现给我们新的令人兴奋的挑战。　DevelopSense校长，RapidSoftwareTesting&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;20&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2106068&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2106068&quot;&gt;
+                            fiddler抓取https的最终说明                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe《Fiddler抓包快速实战》地址：http://edu.51cto.com/course/9038.html的视频中，总是有童鞋抓不到https，其实按照视频的讲解一定可以的，我们学员都是这么做的。不成功的童鞋不外乎没认真看，没认真听（有时候重要的&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;66&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：3 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2105613&quot;&gt;0&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2105613&quot;&gt;
+                            高性能性能测试开发方法                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe1.&amp;nbsp;背景技术1、 关于软件的性能测试：通常的做法是编写性能测试代码（脚本），性能测试代码实质上就是自动执行的客户端程序，可以简称为性能测试客户端。然后建立起性能测试进程，在进程内并发运行多个性能测试客户端访问应用服务，这样就达到了模拟多个&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;46&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：4 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2105182&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2105182&quot;&gt;
+                            无应答事务的性能测试方法                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe1.&amp;nbsp;背景技术1、 软件性能测试方法： 采用软件开发技术， 编写自动执行的客户端代码，在每种需要测试的事务开始和结束的时候加入标记，按照测试设计执行测试代码，统计每个事务的响应时间和单位时间内业务的完成量（TPS）、事务成功率来衡量软件的性&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;35&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：6 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2104169&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2104169&quot;&gt;
+                            python开发工具pycharm快速入门                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe本教程是关于什么的本教程旨在引导您完成创建，运行和调试一个简单的Python项目，使用PyCharm一步一步 - Python的IDE有一整套完整的生产性的开发工具。本教程不是关于哪些的Python编程超出了本教程的范围。要了解更多关于Python语&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;201&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：7 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2103801&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2103801&quot;&gt;
+                            使用 email-ext 替换 Jenkins 的默认邮件通知                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe1&amp;nbsp;简述众所周知，Jenkins&amp;nbsp;默认提供了一个邮件通知，能在构建失败、构建不稳定等状态后发送邮件。但是它本身有很多局限性，比如它的邮件通知无法提供详细的邮件内容、无法定义发送邮件的格式、无法定义灵活的邮件接收配置等等。在这样的情&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;60&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：10 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2097598&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2097598&quot;&gt;
+                            性能测试的原则和方法                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;什么是性能问题性能问题表现第一种小规模使用的时候性能表现很好，在大规模使用的时候，性能变得很差，业务响应时间随业务压力变得越来越慢原因：代码中对资源使用产生的瓶颈，后续的请求在资源(cpu、内存、锁、线程池)上排队例子： 没有索引的表的查询 随着业务量增加，表的行数快速增加，查询越来越慢性能测试解决的大部分问题是这种类型性能问题表现第二种在一定压力情况下，应用的性能突然变差或者不可使用原因：应用突&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;126&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：12 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2096900&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2096900&quot;&gt;
+                            用python实现调用jar包                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe本文作者：botoo背景：python3.6 32位 + jre 32位 + windows64位首先环境搭建：安装jpype，安装的时候输入 pip install jpype1 (后面要加一个1)*一定要注意 jre和python的位数一定要一样&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;107&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：13 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2096261&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2096261&quot;&gt;
+                            大话测试与质量                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe这是一次内部分享的提纲，不涉及细节，重在思想和方法的交流与分享。测试者的角度我们关注什么？try{System.out.println(&amp;quot;我不想上班&amp;quot;);}catch(Exception e)｛System.out.println&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;164&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：14 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2095810&quot;&gt;4&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2095810&quot;&gt;
+                            某网站前端页面性能测试                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;1页面性能测试概述页面性能测试则是针对于页面性能优化而开展的一种性能测试，目的是对Web系统的页面进行测试以确认系统页面是否会影响系统的性能并为页面的优化提供依据与建议，最终提升系统的整体性能表现，提高用户体验满意度。他的关注点是在与页面，不在于后端。有别于我们通常说的性能测试。相对于C/S架构的应用系统，Web应用系统所有数据都需要从服务器端下载，虽然浏览器有缓存机制，但客户每次访问仍然需要下载&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;984&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;2&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;1&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：16 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2095422&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2095422&quot;&gt;
+                            python中logging会重复写日志的问题分析                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe现象小强python全栈自动化测试班的学员问到，会出现重复写日志的情况，如下原因当第二次调用log的时候，根据getLogger(name)里的name获取同一个logger，而这个logger里已经有了第一次你添加的handler，第二次调用又添加&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;207&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：17 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2095124&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2095124&quot;&gt;
+                            代码静态扫描与覆盖率工具之火线                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe本次以在jenkins里使用代码静态扫描与覆盖率工具之火线为例1. 依次点击&amp;quot;Jenkins&amp;quot;-&amp;gt;&amp;quot;系统管理&amp;quot;-&amp;gt;&amp;quot;管理插件&amp;quot;，在插件页面点击&amp;quot;可选插件&amp;quot;按钮&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;221&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：21 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2093902&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2093902&quot;&gt;
+                            性能测试计划模板                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;1. 简介1.1. 编写目的简述编写此计划的目的编写本文档的目的是用于指导sinamail4.0系统的性能测试。    主要从测试环境、测试工具、测试策略、测试具体执行方法、任务与进度表等事先计划和设计。1.2. 项目背景简述本项目的背景针对迎接2008奥运，对用户新开发的带有2008域名的免费邮箱。1.3. 名词解释&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;188&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                    &lt;/ul&gt;
+
+                            
+            &lt;!--关注和粉丝的显示--&gt;
+            
+            &lt;!-- page --&gt;
+            &lt;ul class=&quot;pagination&quot;&gt;&lt;li class=&quot;first&quot; style=&quot;display: none;&quot;&gt;&lt;span&gt;首页&lt;/span&gt;&lt;/li&gt;
+&lt;li class=&quot;prev&quot; style=&quot;display: none;&quot;&gt;&lt;span&gt;上一页&lt;/span&gt;&lt;/li&gt;
+&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p1&quot; data-page=&quot;0&quot;&gt;1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p2&quot; data-page=&quot;1&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p3&quot; data-page=&quot;2&quot;&gt;3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p4&quot; data-page=&quot;3&quot;&gt;4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p5&quot; data-page=&quot;4&quot;&gt;5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p6&quot; data-page=&quot;5&quot;&gt;6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p7&quot; data-page=&quot;6&quot;&gt;7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p8&quot; data-page=&quot;7&quot;&gt;8&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;next&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p2&quot; data-page=&quot;1&quot;&gt;下一页&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;last&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p35&quot; data-page=&quot;34&quot;&gt;末页&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;last&quot; style=&quot;display: none;&quot;&gt;&lt;span&gt;共687条记录&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;		&lt;/div&gt;
+		&lt;!-- right --&gt;
+		&lt;div class=&quot;Right&quot;&gt;
+            			&lt;!-- 发布博文 --&gt;
+            			&lt;!-- 博客名称 --&gt;
+			&lt;div class=&quot;Box articles blogger-name&quot;&gt;
+				&lt;div class=&quot;list&quot;&gt;	
+					&lt;a class=&quot;BoxTil3 fl&quot; href=&quot;http://blog.51cto.com/xqtesting&quot;&gt;小强测试帮&lt;span&gt;&lt;i&gt;&lt;/i&gt;作者&lt;/span&gt;&lt;/a&gt;
+					&lt;div class=&quot;BoxTil2-box fr&quot;&gt;
+						&lt;span&gt;&lt;/span&gt;
+						&lt;div&gt;
+							&lt;img src=&quot;http://blog.51cto.com/blogger/qr?domain=xqtesting&quot;&gt;
+							&lt;p&gt;分享到朋友圈&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+					&lt;div class=&quot;num-arctic&quot;&gt;共&lt;span&gt;687&lt;/span&gt;篇文章&lt;/div&gt;
+					&lt;div class=&quot;bottom&quot;&gt;
+						&lt;div class=&quot;msg-title&quot;&gt;&lt;i class=&quot;l&quot;&gt;&lt;/i&gt;喜欢我的文章，请分享到朋友圈&lt;i class=&quot;r&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+						&lt;h4 class=&quot;title&quot;&gt;&lt;a href=&quot;javascript:;&quot;&gt;作者个人信息&lt;/a&gt;&lt;/h4&gt;
+						&lt;ul class=&quot;my-list&quot;&gt;
+                            &lt;li&gt;关注技术：软件测试 项目管理 产品经理&lt;/li&gt;							&lt;li&gt;无忧币：5348&lt;/li&gt;
+							&lt;li&gt;注册日期：2012-03-15 6.1年&lt;/li&gt;
+                        &lt;/ul&gt;
+                        &lt;div class=&quot;my-crouse-box&quot;&gt;
+                                                        	&lt;a href=&quot;https://edu.51cto.com/lecturer/4626073.html&quot; class=&quot;my-crouse&quot;&gt;博主的网络课堂&lt;/a&gt;
+                                                    &lt;/div&gt;
+					&lt;/div&gt;	
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 七日热门 --&gt;
+            				&lt;h3 class=&quot;BoxTil&quot;&gt;七日热门&lt;/h3&gt;
+				&lt;div class=&quot;Box articles&quot;&gt;
+					&lt;div class=&quot;list&quot;&gt;
+					  &lt;ul class=&quot;seven-list&quot;&gt;
+					    					    	&lt;li class=&quot;s1&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/sery/2104493&quot; target=&quot;_blank&quot;&gt;十年老站吐血迁移实录&lt;/a&gt;&lt;/li&gt;
+					    					    	&lt;li class=&quot;s2&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/ganbing/2105842&quot; target=&quot;_blank&quot;&gt;本想把docker中运行的mysql迁移至RDS中，确没想到mysql会话“炸锅了”&lt;/a&gt;&lt;/li&gt;
+					    					    	&lt;li class=&quot;s3&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/11392572/2105018&quot; target=&quot;_blank&quot;&gt;BUG漏测的原因总结，以及如何处理&lt;/a&gt;&lt;/li&gt;
+					    					    	&lt;li class=&quot;s4&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/13525470/2104916&quot; target=&quot;_blank&quot;&gt;自动化运维工具Ansible实战（一）简介和部署&lt;/a&gt;&lt;/li&gt;
+					    					    	&lt;li class=&quot;s5&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/gloomyfish/2105427&quot; target=&quot;_blank&quot;&gt;VGG卷积神经网络模型解析&lt;/a&gt;&lt;/li&gt;
+					    					  &lt;/ul&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+            		    &lt;!-- 最近来访 --&gt;
+	        			    &lt;h3 class=&quot;BoxTil&quot;&gt;最近来访&lt;/h3&gt;
+				&lt;div class=&quot;Box articles&quot;&gt;
+					&lt;div class=&quot;list&quot;&gt;
+						&lt;ul class=&quot;come-round-list&quot;&gt;
+					        					    		&lt;li&gt;
+                                &lt;div class=&quot;is-vip-bg-3&quot;&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/10627699&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                        &lt;img class=&quot;is-vip-img is-vip-img-4&quot; data-uid=&quot;10617699&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+					    			&lt;/a&gt;
+                                &lt;/div&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/10627699&quot; class=&quot;con&quot; target=&quot;_blank&quot;&gt;seven_zl&lt;/a&gt;
+					    		&lt;/li&gt;
+					        					    		&lt;li&gt;
+                                &lt;div class=&quot;is-vip-bg-3&quot;&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13295375&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                        &lt;img class=&quot;is-vip-img is-vip-img-4&quot; data-uid=&quot;13285375&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+					    			&lt;/a&gt;
+                                &lt;/div&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13295375&quot; class=&quot;con&quot; target=&quot;_blank&quot;&gt;wx59b74bf369e87&lt;/a&gt;
+					    		&lt;/li&gt;
+					        					    		&lt;li&gt;
+                                &lt;div class=&quot;is-vip-bg-3&quot;&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13714497&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                        &lt;img class=&quot;is-vip-img is-vip-img-4&quot; data-uid=&quot;13704497&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+					    			&lt;/a&gt;
+                                &lt;/div&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13714497&quot; class=&quot;con&quot; target=&quot;_blank&quot;&gt;wx5adb1ac60abe7&lt;/a&gt;
+					    		&lt;/li&gt;
+					        					    		&lt;li&gt;
+                                &lt;div class=&quot;is-vip-bg-3&quot;&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13468873&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                        &lt;img class=&quot;is-vip-img is-vip-img-4&quot; data-uid=&quot;13458873&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+					    			&lt;/a&gt;
+                                &lt;/div&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13468873&quot; class=&quot;con&quot; target=&quot;_blank&quot;&gt;一叶子leaf&lt;/a&gt;
+					    		&lt;/li&gt;
+					        					    		&lt;li&gt;
+                                &lt;div class=&quot;is-vip-bg-3&quot;&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/12517892&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                        &lt;img class=&quot;is-vip-img is-vip-img-4&quot; data-uid=&quot;12507892&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+					    			&lt;/a&gt;
+                                &lt;/div&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/12517892&quot; class=&quot;con&quot; target=&quot;_blank&quot;&gt;xiaoxiaoheihei&lt;/a&gt;
+					    		&lt;/li&gt;
+					        					        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+						&lt;/ul&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+	        		&lt;/div&gt;
+		&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+	&lt;/div&gt;	
+	&lt;!-- end content --&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	var praise_url = &apos;http://blog.51cto.com/praise/praise&apos;
+	setPraise($(&apos;.artical-list .top .zan&apos;))
+    $(&apos;body&apos;).css(&apos;background&apos;,&apos;#fff&apos;)
+	$(&apos;.blog-my-title li&apos;).click(function(){
+		$(&apos;.blog-my-title li&apos;).removeClass(&apos;on&apos;)
+		$(this).addClass(&apos;on&apos;)
+	})
+	setHover($(&apos;.filtrate&apos;))
+	setHover($(&apos;.time&apos;))
+	$(&apos;.select-down li&apos;).click(function(){
+		var text = $(this).text()
+		$(this).parent().prev().prev().text(text)
+	})
+	$(&apos;.artical-list .remove&apos;).click(function(){
+    var li = $(this).parents(&apos;li&apos;),url = $(this).data(&apos;url&apos;),id = $(this).data(&apos;id&apos;);
+		new AutoBox({
+			content:&apos;确定删除？&apos;,
+			mask:&quot;#000&quot;,
+			Yes:&apos;确定&apos;,
+			No:&apos;取消&apos;,
+			yc:function(){
+		        $.ajax({
+		           	url:url,
+		           	type:&quot;post&quot;,
+		           	data:{ids:id,operation:&apos;delBlog&apos;},
+		           	dataType:&apos;json&apos;,
+		           	success:function(res){
+			            if(res.status == &apos;1&apos;){
+			              	if(li.siblings().length==0) location.reload();
+			              	li.fadeOut()
+			            }
+		           	}
+		        });
+			}
+		})
+	})
+	window._bd_share_config={
+		&quot;common&quot;:{
+			&quot;bdText&quot;:&quot;小强性能自动化测试品牌&quot;,
+			&quot;bdDesc&quot;:&quot;快来看看我分享给你的技术好文吧&quot;,
+			&quot;bdMini&quot;:&quot;2&quot;,
+			&quot;bdMiniList&quot;:false,
+			&quot;bdPic&quot;:&quot;https://s1.51cto.com/images/201710/25/bd540a4f14d822f6e69087758699358b.jpg&quot;,
+			&quot;bdStyle&quot;:&quot;0&quot;,
+			&quot;bdSize&quot;:&quot;16&quot;,
+		},
+		&quot;share&quot;:{}
+	};
+	with(document)0[(getElementsByTagName(&apos;head&apos;)[0]||body).appendChild(createElement(&apos;script&apos;)).src=&apos;http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=&apos;+~(-new Date()/36e5)];
+&lt;/script&gt;
+&lt;/div&gt;
+&lt;div class=&quot;Footer&quot;&gt;
+    &lt;p class=&quot;copy tc&quot;&gt;Copyright &amp;copy; 2005-2018 &lt;a href=&quot;http://www.51CTO.com&quot; target=&quot;_blank&quot;&gt;51CTO.COM&lt;/a&gt; 版权所有 京ICP证060544号&lt;/p&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;rightTools&quot;&gt;
+      &lt;a href=&quot;http://blog.51cto.com/blogger/publish&quot; class=&quot;aa&quot;&gt;写文章&lt;/a&gt;
+    &lt;a href=&quot;http://wpa.qq.com/msgrd?v=3&amp;amp;uin=3591348659&amp;amp;site=qq&amp;amp;menu=yes&quot; class=&quot;qq&quot;&gt;&lt;/a&gt;
+  &lt;a href=&quot;http://blog.51cto.com/51ctoblog/2057444&quot; class=&quot;yy&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+  &lt;a href=&quot;javascript:void(0);&quot; class=&quot;gotop&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display:none&quot;&gt;
+&lt;iframe frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;0&quot; height=&quot;0&quot; src=&quot;//log.51cto.com/pageview.php?frompos=blog_art&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/pvlog.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://logs.51cto.com/rizhi/count/count.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+  $(&quot;.gotop&quot;).click(function(){$(window).scrollTop(0)})
+&lt;/script&gt;
+
+&lt;iframe src =&quot;http://stor.51cto.com/&quot; width=&quot;0px&quot; height=&quot;0px&quot; style=&quot;display: none&quot;&gt;&lt;/iframe&gt;
+
+    &lt;script type=&quot;text/javascript&quot;&gt;
+    //百度统计代码
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement(&quot;script&quot;);
+      hm.src = &quot;https://hm.baidu.com/hm.js?2283d46608159c3b39fc9f1178809c21&quot;;
+      var s = document.getElementsByTagName(&quot;script&quot;)[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+
+    //自动推送链接
+    (function(){
+        var bp = document.createElement(&apos;script&apos;);
+        var curProtocol = window.location.protocol.split(&apos;:&apos;)[0];
+        if (curProtocol === &apos;https&apos;) {
+            bp.src = &apos;https://zz.bdstatic.com/linksubmit/push.js&apos;;
+        }
+        else {
+            bp.src = &apos;http://push.zhanzhang.baidu.com/push.js&apos;;
+        }
+        var s = document.getElementsByTagName(&quot;script&quot;)[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+      var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push([&apos;setAccountId&apos;, &apos;8c51975c40edfb67&apos;]);
+        (function() {
+          var vds = document.createElement(&apos;script&apos;);
+          vds.type=&apos;text/javascript&apos;;
+          vds.async = true;
+          vds.src = (&apos;https:&apos; == document.location.protocol ? &apos;https://&apos; : &apos;http://&apos;) + &apos;assets.growingio.com/vds.js&apos;;
+          var s = document.getElementsByTagName(&apos;script&apos;)[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+      document.write(decodeURI(&quot;%3Cscript src=&apos;https://tongji.51cto.com/frontend/tj.gif&apos; type=&apos;text/javascript&apos;%3E%3C/script%3E&quot;));
+    &lt;/script&gt;
+    
+&lt;script&gt;
+    (function(){
+        var wh=$(window).height(),fh=$(&apos;.Footer&apos;).outerHeight(true),hh=$(&apos;.Header&apos;).outerHeight(true)
+        $(&apos;.Content-box&apos;).css({&apos;min-height&apos;: wh-fh-hh})
+    })()
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+    <responseFile class="java.lang.String"></responseFile>
+    <java.net.URL>http://blog.51cto.com/xqtesting</java.net.URL>
+  </httpSample>
+  <responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 23 Apr 2018 10:14:28 GMT
+Keep-Alive: timeout=38
+Load-Balancing: web07.hb2
+Server: nginx
+Set-Cookie: acw_tc=AQAAAEZ6d3R4+AAAhkv2OldUIw7hJfMq; Path=/; HttpOnly
+Set-Cookie: pub_sauth1=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.51cto.com
+Set-Cookie: pub_sauth2=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.51cto.com
+Set-Cookie: bloglog1109528=16e60257d694f476f6af65ad2a060fcf63584e8eb9fde5db0c528f5fcd93cf93a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22bloglog1109528%22%3Bi%3A1%3Ba%3A1%3A%7Bs%3A8%3A%22c4626073%22%3Bi%3A1524478468%3B%7D%7D; expires=Mon, 23-Apr-2018 10:14:38 GMT; Max-Age=10; path=/; HttpOnly
+Vary: Accept-Encoding
+X-Powered-By: PHP/7.1.9
+</responseHeader>
+  <requestHeader class="java.lang.String">Connection: keep-alive
+Host: blog.51cto.com
+Proxy-Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_131)
+</requestHeader>
+  <responseData class="java.lang.String">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;zh-CN&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+    &lt;link type=&quot;favicon&quot; rel=&quot;shortcut icon&quot; href=&quot;/favicon.ico&quot; /&gt;
+        &lt;title&gt;小强性能自动化测试品牌-51CTO博客&lt;/title&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;小强性能自动化测试品牌,软件测试基础,手机APP测试,性能测试LR &amp;amp;amp; Jmeter,自动化接口 &amp;amp;amp; python,性能 &amp;amp;amp; 自动化测试培训班,测试管理,测试自学手册,安全测试,产品经理,LANMP,职场·薪水·潜规则,小强IT游记,交流群,免费公开课,大数据测试,各类模板文件,软件包下载,51CTO博客&quot;&gt;
+&lt;meta name=&quot;description&quot; content=&quot;小强性能自动化测试品牌(http://blog.51cto.com/xqtesting)&quot;&gt;    &lt;link href=&quot;http://static1.51cto.com/edu/blog/css/base.css?v=1.0.1.2&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://static1.51cto.com/edu/blog/css/header.css?v=1.0.1.9&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://static1.51cto.com/edu/blog/css/other.css?v=1.0.0.5&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://static1.51cto.com/edu/blog/css/list_tab.css?v=1.0.0.5&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://static1.51cto.com/edu/blog/css/right.css?v=1.0.2.8&quot; rel=&quot;stylesheet&quot;&gt;&lt;link href=&quot;http://static1.51cto.com/edu/blog/css/blog_my.css?v=1.0.1.3&quot; rel=&quot;stylesheet&quot;&gt;
+    &lt;script src=&quot;http://static1.51cto.com/edu/center/js/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/cookie.js&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/login.js?v=1.0.0.6&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/common.js?v=1.0.0.7&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/mbox.js&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/follow.js?v=1.0.0.8&quot;&gt;&lt;/script&gt;&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/vip.js?v=1.0.0.1&quot;&gt;&lt;/script&gt;&lt;/head&gt;
+&lt;body&gt;
+&lt;img src=&quot;http://static1.51cto.com/edu/blog/mobile/images/share_default.jpg&quot; border=&quot;0&quot; style=&quot;width:0; height:0; position:absolute;&quot;&gt;
+&lt;div class=&quot;Header&quot;&gt;
+  &lt;div class=&quot;Page &quot;&gt;
+    &lt;h1 class=&quot;Logo&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/&quot;&gt;Logo&lt;/a&gt;&lt;/h1&gt;
+    &lt;ul class=&quot;Navigates fl&quot;&gt;
+      &lt;li &gt;&lt;a href=&quot;http://blog.51cto.com/&quot;&gt;首页&lt;/a&gt;&lt;/li&gt;
+      &lt;li &gt;&lt;a href=&quot;http://blog.51cto.com/original&quot;&gt;文章&lt;/a&gt;&lt;/li&gt;
+            &lt;li class=&quot;&quot;&gt;
+        &lt;a href=&quot;http://blog.51cto.com/expert&quot;&gt;专家&lt;/a&gt;
+      &lt;/li&gt;
+            &lt;li &gt;&lt;a href=&quot;http://blog.51cto.com/blogger/index&quot;&gt;我的博客&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul class=&quot;Navigates Navigates-right fr&quot;&gt;
+      &lt;li class=&quot;more maps&quot;&gt;
+        &lt;a href=&quot;javascript:void(0);&quot;&gt;网站导航&lt;/a&gt;
+        &lt;div&gt;
+            &lt;a href=&quot;http://edu.51cto.com&quot; target=&quot;_blank&quot;&gt;学院&lt;/a&gt;
+            &lt;a href=&quot;http://blog.51cto.com&quot; target=&quot;_blank&quot;&gt;博客&lt;/a&gt;
+            &lt;a href=&quot;http://down.51cto.com&quot; target=&quot;_blank&quot;&gt;下载&lt;/a&gt;
+            &lt;a href=&quot;http://home.51cto.com&quot; target=&quot;_blank&quot;&gt;家园&lt;/a&gt;
+            &lt;a href=&quot;http://bbs.51cto.com&quot; target=&quot;_blank&quot;&gt;论坛&lt;/a&gt;
+            &lt;a href=&quot;http://x.51cto.com&quot; target=&quot;_blank&quot;&gt;CTO训练营&lt;/a&gt;
+            &lt;a href=&quot; http://club.51cto.com?blog&quot; target=&quot;_blank&quot;&gt;CTO俱乐部&lt;/a&gt;
+            &lt;a href=&quot;http://wot.51cto.com&quot; target=&quot;_blank&quot;&gt;WOT&lt;/a&gt;
+            &lt;a href=&quot;http://www.51cto.com&quot; target=&quot;_blank&quot;&gt;51CTO&lt;/a&gt;
+            &lt;i class=&quot;arrow&quot;&gt;&lt;/i&gt;
+        &lt;/div&gt;
+      &lt;/li&gt;
+                &lt;li&gt;&lt;a href=&quot;http://home.51cto.com/user/register?reback=http%253A%252F%252Fblog.51cto.com%252Fxqtesting&quot; target=&quot;_self&quot;&gt;注册&lt;/a&gt;&lt;/li&gt;
+          &lt;li class=&quot;login&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/user/login?reback=http%3A%2F%2Fblog.51cto.com%2Fxqtesting&quot; target=&quot;_self&quot;&gt;登录&lt;/a&gt;&lt;/li&gt;
+                        &lt;li class=&quot;mRead&quot;&gt;
+          &lt;a href=&quot;javascript:;&quot;&gt;手机阅读&lt;/a&gt;
+          &lt;div&gt;
+            &lt;img src=&quot;http://static1.51cto.com/edu/blog/images/blog_qr.png&quot;&gt;
+            &lt;p&gt;扫一扫体验手机阅读&lt;/p&gt;
+            &lt;i class=&quot;arrow&quot;&gt;&lt;/i&gt;
+          &lt;/div&gt;
+        &lt;/li&gt;
+            &lt;li class=&quot;search&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/search/index&quot;  target=&quot;_self&quot;&gt;搜索&lt;/a&gt;&lt;/li&gt;
+                  &lt;li class=&quot;write&quot;&gt;&lt;a href=&quot;javascript:;&quot; onClick=&quot;Login()&quot;&gt;写文章&lt;/a&gt;&lt;/li&gt;
+                  &lt;/ul&gt;
+          &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script&gt;
+    var isLogin = &apos;0&apos;;
+    var userId = &apos;&apos;;
+    var imgpath = &apos;http://i2.51cto.com/&apos;;
+    var BLOG_URL = &apos;http://blog.51cto.com/&apos;;
+    var msg_num_url = &apos;http://blog.51cto.com/index/ajax-msg-num&apos;;
+    setTimeout(function(){
+            $.ajax({
+                url:msg_num_url,
+                type:&quot;get&quot;,
+                dataType:&apos;json&apos;,
+                success:function(res){
+                    if(res.status == &apos;0&apos;){
+                       //
+                       var hasNewMsg = false;
+                       if(res.data.msgNum &gt; 0 &amp;&amp; !$(&apos;#myMsg i&apos;).hasClass(&apos;dot&apos;)){
+                            $(&apos;#myMsg i&apos;).addClass(&apos;dot&apos;);
+                            hasNewMsg = true;
+                       }
+                       if(res.data.notifyNum &gt; 0 &amp;&amp; !$(&apos;#myNotify i&apos;).hasClass(&apos;dot&apos;)){
+                           $(&apos;#myNotify i&apos;).addClass(&apos;dot&apos;);
+                           hasNewMsg = true;
+                       }
+                       if(res.data.recommend_new &gt; 0 &amp;&amp; !$(&apos;#myRecommend i&apos;).hasClass(&apos;dot&apos;)){
+                           $(&apos;#myRecommend i&apos;).addClass(&apos;dot&apos;);
+                           hasNewMsg = true;
+                       }
+                       if(hasNewMsg &amp;&amp; !$(&apos;#myAllMsg i&apos;).hasClass(&apos;dot&apos;)){
+                           $(&apos;#myAllMsg i&apos;).addClass(&apos;dot&apos;);
+                       }
+                    }
+                    
+                }
+            });
+    },70);
+&lt;/script&gt;&lt;div class=&quot;Content-box&quot;&gt;
+    &lt;script&gt;
+var is_reload = true;
+$(&quot;.follow-top&quot;).click(function() {
+    is_reload = false;
+})
+function FollowBtnSucc(e){//1:未关注,2:已关注,3:互相关注
+    if(e==2||e==3){
+        $.post(&apos;/index/wxbind&apos;,{uid:userId},function(res){
+            if(getCookie(&apos;follow1&apos;) || getCookie(&apos;follow2&apos;))return false;
+            if(res.status==1){
+                if(res.data.wxBind == 0){//没绑定
+                    box1()
+                }else{
+                    box2()
+                }
+            }
+        },&apos;json&apos;)
+    }else{
+        if(is_reload) {
+            window.location.reload();
+        }
+    }
+    is_reload = true;
+}
+&lt;/script&gt;
+&lt;div class=&quot;blog-my-bg&quot;&gt;
+	&lt;!-- header start --&gt;
+	&lt;div class=&quot;header-bg&quot;&gt;
+		&lt;div class=&quot;header Page&quot;&gt;
+			&lt;div class=&quot;header-top&quot;&gt;
+                &lt;div class=&quot;is-vip-bg-2 fl&quot;&gt;
+    				&lt;a href=&quot;javascript:;&quot; class=&quot;a-img&quot;&gt;
+                        &lt;img class=&quot;is-vip-img is-vip-img-1&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+    				&lt;/a&gt;
+                &lt;/div&gt;
+				&lt;div class=&quot;right&quot;&gt;
+					&lt;a href=&quot;javascript:;&quot; class=&quot;name&quot;&gt;小强性能自动化测试品牌&lt;/a&gt;
+					&lt;ul class=&quot;number-list&quot;&gt;
+						&lt;li&gt;&lt;span&gt;465W+&lt;/span&gt;&lt;p&gt;人气&lt;/p&gt;&lt;/li&gt;
+						&lt;li&gt;&lt;span&gt;687&lt;/span&gt;&lt;p&gt;文章&lt;/p&gt;&lt;/li&gt;
+                                                    &lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?type=2&quot; target=&quot;_blank&quot;&gt;0&lt;/a&gt;&lt;p&gt;关注&lt;/p&gt;&lt;/li&gt;
+                            &lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?type=3&quot; target=&quot;_blank&quot;&gt;139&lt;/a&gt;&lt;p&gt;粉丝&lt;/p&gt;&lt;/li&gt;
+                        						&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+					&lt;/ul&gt;
+					&lt;ul class=&quot;icon-list&quot;&gt;
+						                        &lt;li class=&quot;icon-list-4&quot;&gt;推荐博客&lt;/li&gt;                        						&lt;li class=&quot;icon-list-2&quot;&gt;讲师&lt;/li&gt;												&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+					&lt;/ul&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;right-msg&quot;&gt;
+                                                                        &lt;a id=&quot;checkFollow_t_4626073&quot; class=&quot;follow-1 follow-top checkFollow-btn on&quot; href=&quot;javascript:;&quot;&gt;关注&lt;/a&gt;
+                        
+                        &lt;script&gt;
+                            FollowBtn = new Follow($(&apos;#checkFollow_t_4626073&apos;),&apos;4626073&apos;,&apos;1&apos;,[&apos;on&apos;,&apos;in&apos;,&apos;mutual&apos;,&apos;off&apos;])
+                            FollowBtn.success=FollowBtnSucc
+                        &lt;/script&gt;
+                    					&lt;a class=&quot;siMsg&quot; href=&quot;http://home.51cto.com/space?uid=4626073&quot; target=&quot;_blank&quot;&gt;私信&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;header-bottom&quot;&gt;
+				&lt;ul class=&quot;left-list fl&quot;&gt;
+					&lt;li&gt;原创&amp;nbsp;311&lt;/li&gt;
+					&lt;li&gt;翻译&amp;nbsp;0&lt;/li&gt;
+					&lt;li&gt;转载&amp;nbsp;376&lt;/li&gt;
+                                            &lt;li&gt;评论&amp;nbsp;196&lt;/li&gt;
+                        &lt;li&gt;点赞&amp;nbsp;1956&lt;/li&gt;
+                    					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+				&lt;/ul&gt;
+				&lt;div class=&quot;bdsharebuttonbox right-list fr&quot;&gt;
+				  &lt;p&gt;分享：&lt;/p&gt;
+				  &lt;a href=&quot;javascript:;&quot; class=&quot;bds_sqq&quot; data-cmd=&quot;sqq&quot; title=&quot;分享到QQ好友&quot;&gt;&lt;/a&gt;
+				  &lt;a href=&quot;javascript:;&quot; class=&quot;bds_tsina&quot; data-cmd=&quot;tsina&quot; title=&quot;分享到新浪微博&quot;&gt;&lt;/a&gt;
+				  &lt;a href=&quot;javascript:;&quot; class=&quot;bds_weixin&quot; data-cmd=&quot;weixin&quot; title=&quot;分享到微信&quot;&gt;&lt;/a&gt;
+				&lt;/div&gt;
+				&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;Page blog-my&quot;&gt;
+
+        &lt;!-- left --&gt;
+        &lt;div class=&quot;Left&quot;&gt;
+        	&lt;!-- tab --&gt;
+        	&lt;ul class=&quot;blog-my-tab&quot;&gt;
+        		&lt;li class=&quot;on&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?type=1&quot;&gt;文章&lt;/a&gt;&lt;/li&gt;
+        		&lt;li &gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?type=2&quot;&gt;关注&lt;/a&gt;&lt;/li&gt;
+        		&lt;li &gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?type=3&quot;&gt;粉丝&lt;/a&gt;&lt;/li&gt;
+        		&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+        	&lt;/ul&gt;
+			&lt;!-- title --&gt;
+                            &lt;ul class=&quot;blog-my-title&quot;&gt;
+                    &lt;li class=&quot;on&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting&quot;&gt;主页&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category12.html&quot;&gt;软件测试基础&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category3.html&quot;&gt;手机APP测试&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category4.html&quot;&gt;性能测试LR &amp;amp; Jmeter&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category6.html&quot;&gt;自动化接口 &amp;amp; python&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category34.html&quot;&gt;性能 &amp;amp; 自动化测试培训班&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category30.html&quot;&gt;测试管理&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category31.html&quot;&gt;测试自学手册&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category32.html&quot;&gt;安全测试&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category26.html&quot;&gt;产品经理&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category25.html&quot;&gt;LANMP&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category36.html&quot;&gt;职场·薪水·潜规则&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category28.html&quot;&gt;小强IT游记&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category35.html&quot;&gt;交流群&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category37.html&quot;&gt;免费公开课&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category38.html&quot;&gt;大数据测试&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category39.html&quot;&gt;各类模板文件&lt;/a&gt;&lt;/li&gt;
+                                            &lt;li class=&quot;&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/category40.html&quot;&gt;软件包下载&lt;/a&gt;&lt;/li&gt;
+                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                &lt;/ul&gt;
+			&lt;div class=&quot;artical-tit&quot;&gt;
+
+				&lt;!-- &lt;p class=&quot;fl&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting&quot;&gt;全部文章&lt;/a&gt;&lt;/p&gt; --&gt;
+
+                &lt;form class=&quot;fr form-search&quot; method=&apos;get&apos; action=&quot;http://blog.51cto.com/search/user&quot; target=&quot;_blank&quot;&gt;
+                    &lt;input type=&quot;hidden&quot; name=&quot;uid&quot; value=&quot;4626073&quot;&gt;
+                    &lt;input class=&quot;select-input fr&quot; type=&quot;text&quot; name=&quot;q&quot; placeholder=&quot;请输入搜索关键词&quot; maxlength=&quot;38&quot;&gt;
+                    &lt;div class=&quot;pulldown select-down time fl&quot; style=&quot;display: none&quot;&gt; 
+                    	&lt;p&gt;发布时间&lt;/p&gt;
+                    	&lt;i class=&quot;arrow&quot;&gt;&lt;/i&gt;
+                    	&lt;ul class=&quot;pulldown-list&quot; for=&quot;time&quot;&gt;
+                    		&lt;li&gt;&lt;a href=&quot;javascript:;&quot;&gt;三个月内&lt;/a&gt;&lt;/li&gt;
+                    		&lt;li&gt;&lt;a href=&quot;javascript:;&quot;&gt;六个月内&lt;/a&gt;&lt;/li&gt;
+                    		&lt;li&gt;&lt;a href=&quot;javascript:;&quot;&gt;一年内&lt;/a&gt;&lt;/li&gt;
+                    		&lt;li&gt;&lt;a href=&quot;javascript:;&quot;&gt;三年内&lt;/a&gt;&lt;/li&gt;
+                    		&lt;li&gt;&lt;a href=&quot;javascript:;&quot;&gt;五年内&lt;/a&gt;&lt;/li&gt;
+                    	&lt;/ul&gt;
+                    	&lt;!-- &lt;input name=&quot;time&quot; id=&quot;time&quot; value=&quot;&quot; type=&quot;hidden&quot;&gt; --&gt;
+                    &lt;/div&gt;
+                    &lt;div class=&quot;pulldown select-down filtrate fl&quot; style=&quot;display: none&quot;&gt;
+	                    &lt;p&gt;文章状态&lt;/p&gt;
+	                    &lt;i class=&quot;arrow&quot;&gt;&lt;/i&gt;
+	                    &lt;ul class=&quot;pulldown-list&quot; for=&quot;filtrate_id&quot;&gt;
+	                    	                    	&lt;li value=&quot;全部&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=&quot;&gt;全部&lt;/a&gt;&lt;/li&gt;
+	                        
+			              				                	&lt;li value=&quot;推荐&quot; data-id=&quot;3&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=3&quot;&gt;推荐&lt;/a&gt;&lt;/li&gt;
+			              				                	&lt;li value=&quot;原创&quot; data-id=&quot;4&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=4&quot;&gt;原创&lt;/a&gt;&lt;/li&gt;
+			              				                	&lt;li value=&quot;转载&quot; data-id=&quot;5&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=5&quot;&gt;转载&lt;/a&gt;&lt;/li&gt;
+			              				                	&lt;li value=&quot;翻译&quot; data-id=&quot;6&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=6&quot;&gt;翻译&lt;/a&gt;&lt;/li&gt;
+			              							&lt;/ul&gt;
+						&lt;!-- &lt;input name=&quot;filtrate_id&quot; id=&quot;filtrate_id&quot; value=&quot;&quot; type=&quot;hidden&quot;&gt; --&gt;
+	                &lt;/div&gt;
+	                &lt;div class=&quot;pulldown select-down filtrate fl&quot;&gt;
+	                    						&lt;p&gt;全部&lt;/p&gt;
+	                    	                    &lt;i class=&quot;arrow&quot;&gt;&lt;/i&gt;
+	                    &lt;ul class=&quot;pulldown-list&quot; for=&quot;filtrate_id&quot;&gt;
+	                    	                    	&lt;li value=&quot;全部&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=&quot;&gt;全部&lt;/a&gt;&lt;/li&gt;
+	                        
+			              				                &lt;li value=&quot;推荐&quot; data-id=&quot;3&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=3&quot;&gt;推荐&lt;/a&gt;&lt;/li&gt;
+			              				                &lt;li value=&quot;原创&quot; data-id=&quot;4&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=4&quot;&gt;原创&lt;/a&gt;&lt;/li&gt;
+			              				                &lt;li value=&quot;转载&quot; data-id=&quot;5&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=5&quot;&gt;转载&lt;/a&gt;&lt;/li&gt;
+			              				                &lt;li value=&quot;翻译&quot; data-id=&quot;6&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting?s=6&quot;&gt;翻译&lt;/a&gt;&lt;/li&gt;
+			              							&lt;/ul&gt;
+						&lt;!--&lt;input name=&quot;filtrate_id&quot; id=&quot;filtrate_id&quot; value=&quot;&quot; type=&quot;hidden&quot;&gt;--&gt;
+	                &lt;/div&gt;
+                &lt;/form&gt;
+				&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            
+
+            &lt;!--文章的显示逻辑--&gt;
+                                            &lt;ul class=&quot;artical-list&quot;&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2017-10-30 08:16:06&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1977279&quot;&gt;12&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1977279&quot;&gt;
+                            测试工程师值得被尊重！不知你是否也有此共鸣！                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;内心持久的声音测试工程师值得被尊重，是我一直以来内心的声音，这个声音憋了很久很久，所以本文觉得不是标题党，而是实实在在的内心想法。当然，有可能偏激，有可能太泛泛，也有可能说的都是P话，但我相信会直接你的内心，产生共鸣！如果有说的不妥的地方，望各位看官多多包涵，咱都是文明人，你懂的~长久以来被认为门槛低多么痛的领悟！我也都想抽自己嘴巴！早年我自己都说测试入门门槛低什么什么的，现在想想，唉。首先，不否&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;4W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;3&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;2&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2017-07-13 07:56:20&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1946934&quot;&gt;7&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1946934&quot;&gt;
+                            送给那些有代码基础但仍旧不会学自动化测试的朋友们                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;我经常遇到这样的场景：老师，我有python or java基础，但还是不知道怎么写代码？老师，我有代码基础，简单的不用学，我想学高级的。老师，我有编程基础，但是我看不懂代码。。。。。。诸如此类的问题，我想大家也一定有这些内心的OS面对这样的场景，这样的问题，我也问了不少童鞋，得到的答案其实听悲哀的。莫过于说些代码太难了，不会不懂；这个代码写的不详细导致我看不懂；我有编程基础的，是你写的代码太烂了&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;1W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;8&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;10&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2015-06-30 14:34:16&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1669386&quot;&gt;8&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1669386&quot;&gt;
+                            高级软件测试自学视频（性能、自动化、安全、手机app、管理）                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;恭喜“小强系列测试课程获得国家版权认证保护”,我们从不BB，只动手干！《小强软件测试疯狂讲义》书籍出版，各大网店均可购买“三级火箭”学习方式1、参加培训班，由老师亲自上课进行讲解，课后仍提供视频，所有学员享有免费、不限次数、永久重学的福利，直到学会为止！小强性能测试和python自动化测试常年招生中，报名QQ：2083503238。咨询前请先到http://xqtesting.sxl.cn看下介绍&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;4W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;3&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2017-02-27 08:01:00&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1901525&quot;&gt;3&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1901525&quot;&gt;
+                            10年手工测试的迷茫，值得每个人深思                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;百度搜索：小强测试品牌&amp;nbsp;交流群：229390571&amp;nbsp;在荔枝FM手机客户端中搜索“挨踢脱口秀”进行收听引子请准备好我要开始装逼了！！！！！NO，今天不装逼。。。实实在在的和大家分享下。为什么会写这篇文章呢？纯属是因为前段时间有个朋友在QQ上和我交流，说他干了10年的手工测试了，现在还能不能转型。说实在的，当时我听的一脸懵逼，于是就诞生了这篇文章！以下内容纯属个人观点，不喜勿喷，有&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;1W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;1&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2016-03-10 08:04:26&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1749414&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1749414&quot;&gt;
+                            【招生中】小强性能测试实战班5月27号开课，已经有小伙伴报名了哦，名额有限快到我碗里来                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;经过万人验证的课程体系，不装逼，以最真实和接地气的方式展现。TA是你转型和提升的绝佳途径，可以帮助你完善整套的知识体系，课后提供视频，且可永久免费重学，是小白的首选！具体介绍请看正文，你想知道的都在里面哦！&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;5W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;1&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2016-03-03 22:03:01&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1747358&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1747358&quot;&gt;
+                            招生中 | 小强自动化测试开发9月班招生中，6月底前报名优惠500                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;帮你完成从0到1的蜕变，打造全栈的自动化测试能力，可独立完成各类自动化测试框架的编写。全栈内容包括接口测试、web端selenium、手机端Appium等，全部基于python并最终可独立编写出来全部的框架从而直接使用！让你“码”上爽起来！具体介绍请看正文，你想知道的都在里面哈！&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;2W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2016-07-14 23:08:31&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;1826540&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/1826540&quot;&gt;
+                            小强测试品牌培训班学员成果展示                                                        &lt;span class=&quot;ding&quot;&gt;置顶&lt;/span&gt;                        &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;小强测试在2015年底开始以独立品牌运营受到了广大朋友的支持和点赞，才使得我们在不到一年的时间里迅速发展与壮大。在这个过程中我们有过艰难也有过快乐，但更多的还是沉默踏踏实实的做事情。今天就将一部分小小的成果展示给大家，感谢大家一直以来的支持，也感谢学员们一直以来的坚持！&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;1W+&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：1 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2106526&quot;&gt;0&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2106526&quot;&gt;
+                            有关软件测试的五大谣言                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe谣传1：测试无聊一件单调且无聊的事，作为测试的一个传闻，频繁见诸于主流媒体文章中，这些文章把测试者比作软件产业的装配线工人。而事实上，测试工作每天都呈现给我们新的令人兴奋的挑战。　DevelopSense校长，RapidSoftwareTesting&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;20&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：2 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2106068&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2106068&quot;&gt;
+                            fiddler抓取https的最终说明                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe《Fiddler抓包快速实战》地址：http://edu.51cto.com/course/9038.html的视频中，总是有童鞋抓不到https，其实按照视频的讲解一定可以的，我们学员都是这么做的。不成功的童鞋不外乎没认真看，没认真听（有时候重要的&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;66&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：3 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2105613&quot;&gt;0&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2105613&quot;&gt;
+                            高性能性能测试开发方法                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe1.&amp;nbsp;背景技术1、 关于软件的性能测试：通常的做法是编写性能测试代码（脚本），性能测试代码实质上就是自动执行的客户端程序，可以简称为性能测试客户端。然后建立起性能测试进程，在进程内并发运行多个性能测试客户端访问应用服务，这样就达到了模拟多个&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;46&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：4 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2105182&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2105182&quot;&gt;
+                            无应答事务的性能测试方法                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe1.&amp;nbsp;背景技术1、 软件性能测试方法： 采用软件开发技术， 编写自动执行的客户端代码，在每种需要测试的事务开始和结束的时候加入标记，按照测试设计执行测试代码，统计每个事务的响应时间和单位时间内业务的完成量（TPS）、事务成功率来衡量软件的性&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;35&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：6 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2104169&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2104169&quot;&gt;
+                            python开发工具pycharm快速入门                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe本教程是关于什么的本教程旨在引导您完成创建，运行和调试一个简单的Python项目，使用PyCharm一步一步 - Python的IDE有一整套完整的生产性的开发工具。本教程不是关于哪些的Python编程超出了本教程的范围。要了解更多关于Python语&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;201&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：7 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2103801&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2103801&quot;&gt;
+                            使用 email-ext 替换 Jenkins 的默认邮件通知                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe1&amp;nbsp;简述众所周知，Jenkins&amp;nbsp;默认提供了一个邮件通知，能在构建失败、构建不稳定等状态后发送邮件。但是它本身有很多局限性，比如它的邮件通知无法提供详细的邮件内容、无法定义发送邮件的格式、无法定义灵活的邮件接收配置等等。在这样的情&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;60&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：10 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2097598&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2097598&quot;&gt;
+                            性能测试的原则和方法                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;什么是性能问题性能问题表现第一种小规模使用的时候性能表现很好，在大规模使用的时候，性能变得很差，业务响应时间随业务压力变得越来越慢原因：代码中对资源使用产生的瓶颈，后续的请求在资源(cpu、内存、锁、线程池)上排队例子： 没有索引的表的查询 随着业务量增加，表的行数快速增加，查询越来越慢性能测试解决的大部分问题是这种类型性能问题表现第二种在一定压力情况下，应用的性能突然变差或者不可使用原因：应用突&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;126&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：12 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2096900&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2096900&quot;&gt;
+                            用python实现调用jar包                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe本文作者：botoo背景：python3.6 32位 + jre 32位 + windows64位首先环境搭建：安装jpype，安装的时候输入 pip install jpype1 (后面要加一个1)*一定要注意 jre和python的位数一定要一样&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;107&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：13 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2096261&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2096261&quot;&gt;
+                            大话测试与质量                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe这是一次内部分享的提纲，不涉及细节，重在思想和方法的交流与分享。测试者的角度我们关注什么？try{System.out.println(&amp;quot;我不想上班&amp;quot;);}catch(Exception e)｛System.out.println&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;164&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：14 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2095810&quot;&gt;4&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2095810&quot;&gt;
+                            某网站前端页面性能测试                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;1页面性能测试概述页面性能测试则是针对于页面性能优化而开展的一种性能测试，目的是对Web系统的页面进行测试以确认系统页面是否会影响系统的性能并为页面的优化提供依据与建议，最终提升系统的整体性能表现，提高用户体验满意度。他的关注点是在与页面，不在于后端。有别于我们通常说的性能测试。相对于C/S架构的应用系统，Web应用系统所有数据都需要从服务器端下载，虽然浏览器有缓存机制，但客户每次访问仍然需要下载&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;984&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;2&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;1&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：16 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2095422&quot;&gt;2&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2095422&quot;&gt;
+                            python中logging会重复写日志的问题分析                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe现象小强python全栈自动化测试班的学员问到，会出现重复写日志的情况，如下原因当第二次调用log的时候，根据getLogger(name)里的name获取同一个logger，而这个logger里已经有了第一次你添加的handler，第二次调用又添加&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;207&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：17 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2095124&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2095124&quot;&gt;
+                            代码静态扫描与覆盖率工具之火线                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;点击链接加入QQ群 522720170（免费公开课、视频应有尽有）：https://jq.qq.com/?_wv=1027&amp;amp;k=5C08ATe本次以在jenkins里使用代码静态扫描与覆盖率工具之火线为例1. 依次点击&amp;quot;Jenkins&amp;quot;-&amp;gt;&amp;quot;系统管理&amp;quot;-&amp;gt;&amp;quot;管理插件&amp;quot;，在插件页面点击&amp;quot;可选插件&amp;quot;按钮&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab reprint fl&quot;&gt;转载&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;221&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                        &lt;li&gt;
+                        &lt;div class=&quot;top &quot;&gt;
+                            &lt;div class=&quot;is-vip-bg fl&quot;&gt;
+                                &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                    &lt;img class=&quot;avatar is-vip-img is-vip-img-4&quot; data-uid=&quot;4626073&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+                                &lt;/a&gt;
+                            &lt;/div&gt;
+                            &lt;a href=&quot;http://blog.51cto.com/xqtesting&quot; class=&quot;name fl&quot;&gt;小强测试帮&lt;/a&gt;
+                            &lt;a href=&quot;javascript:;&quot; class=&quot;time fl&quot;&gt;发布于：21 天前&lt;/a&gt;
+                            &lt;p class=&quot;zan fr &quot; type=&quot;1&quot; blog_id=&quot;2093902&quot;&gt;1&lt;/p&gt;
+                            &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&quot;tit&quot; href=&quot;http://blog.51cto.com/xqtesting/2093902&quot;&gt;
+                            性能测试计划模板                                                                                &lt;/a&gt;
+                        &lt;a href=&quot;javascript:;&quot; class=&quot;con&quot;&gt;1. 简介1.1. 编写目的简述编写此计划的目的编写本文档的目的是用于指导sinamail4.0系统的性能测试。    主要从测试环境、测试工具、测试策略、测试具体执行方法、任务与进度表等事先计划和设计。1.2. 项目背景简述本项目的背景针对迎接2008奥运，对用户新开发的带有2008域名的免费邮箱。1.3. 名词解释&lt;/a&gt;
+                        &lt;div class=&quot;bot&quot;&gt;
+                                                            &lt;p class=&quot;tab original fl&quot;&gt;原创&lt;/p&gt;
+                                                                                                &lt;p class=&quot;read fl&quot;&gt;阅读&amp;nbsp;188&lt;/p&gt;
+                                                                &lt;p class=&quot;comment fl&quot;&gt;评论&amp;nbsp;0&lt;/p&gt;
+                                &lt;p class=&quot;collect fl&quot;&gt;收藏&amp;nbsp;0&lt;/p&gt;
+                                                        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/li&gt;
+                                    &lt;/ul&gt;
+
+                            
+            &lt;!--关注和粉丝的显示--&gt;
+            
+            &lt;!-- page --&gt;
+            &lt;ul class=&quot;pagination&quot;&gt;&lt;li class=&quot;first&quot; style=&quot;display: none;&quot;&gt;&lt;span&gt;首页&lt;/span&gt;&lt;/li&gt;
+&lt;li class=&quot;prev&quot; style=&quot;display: none;&quot;&gt;&lt;span&gt;上一页&lt;/span&gt;&lt;/li&gt;
+&lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p1&quot; data-page=&quot;0&quot;&gt;1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p2&quot; data-page=&quot;1&quot;&gt;2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p3&quot; data-page=&quot;2&quot;&gt;3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p4&quot; data-page=&quot;3&quot;&gt;4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p5&quot; data-page=&quot;4&quot;&gt;5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p6&quot; data-page=&quot;5&quot;&gt;6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p7&quot; data-page=&quot;6&quot;&gt;7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p8&quot; data-page=&quot;7&quot;&gt;8&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;next&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p2&quot; data-page=&quot;1&quot;&gt;下一页&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;last&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/xqtesting/p35&quot; data-page=&quot;34&quot;&gt;末页&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;last&quot; style=&quot;display: none;&quot;&gt;&lt;span&gt;共687条记录&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;		&lt;/div&gt;
+		&lt;!-- right --&gt;
+		&lt;div class=&quot;Right&quot;&gt;
+            			&lt;!-- 发布博文 --&gt;
+            			&lt;!-- 博客名称 --&gt;
+			&lt;div class=&quot;Box articles blogger-name&quot;&gt;
+				&lt;div class=&quot;list&quot;&gt;	
+					&lt;a class=&quot;BoxTil3 fl&quot; href=&quot;http://blog.51cto.com/xqtesting&quot;&gt;小强测试帮&lt;span&gt;&lt;i&gt;&lt;/i&gt;作者&lt;/span&gt;&lt;/a&gt;
+					&lt;div class=&quot;BoxTil2-box fr&quot;&gt;
+						&lt;span&gt;&lt;/span&gt;
+						&lt;div&gt;
+							&lt;img src=&quot;http://blog.51cto.com/blogger/qr?domain=xqtesting&quot;&gt;
+							&lt;p&gt;分享到朋友圈&lt;/p&gt;
+						&lt;/div&gt;
+					&lt;/div&gt;
+					&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+					&lt;div class=&quot;num-arctic&quot;&gt;共&lt;span&gt;687&lt;/span&gt;篇文章&lt;/div&gt;
+					&lt;div class=&quot;bottom&quot;&gt;
+						&lt;div class=&quot;msg-title&quot;&gt;&lt;i class=&quot;l&quot;&gt;&lt;/i&gt;喜欢我的文章，请分享到朋友圈&lt;i class=&quot;r&quot;&gt;&lt;/i&gt;&lt;/div&gt;
+						&lt;h4 class=&quot;title&quot;&gt;&lt;a href=&quot;javascript:;&quot;&gt;作者个人信息&lt;/a&gt;&lt;/h4&gt;
+						&lt;ul class=&quot;my-list&quot;&gt;
+                            &lt;li&gt;关注技术：软件测试 项目管理 产品经理&lt;/li&gt;							&lt;li&gt;无忧币：5348&lt;/li&gt;
+							&lt;li&gt;注册日期：2012-03-15 6.1年&lt;/li&gt;
+                        &lt;/ul&gt;
+                        &lt;div class=&quot;my-crouse-box&quot;&gt;
+                                                        	&lt;a href=&quot;https://edu.51cto.com/lecturer/4626073.html&quot; class=&quot;my-crouse&quot;&gt;博主的网络课堂&lt;/a&gt;
+                                                    &lt;/div&gt;
+					&lt;/div&gt;	
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;!-- 七日热门 --&gt;
+            				&lt;h3 class=&quot;BoxTil&quot;&gt;七日热门&lt;/h3&gt;
+				&lt;div class=&quot;Box articles&quot;&gt;
+					&lt;div class=&quot;list&quot;&gt;
+					  &lt;ul class=&quot;seven-list&quot;&gt;
+					    					    	&lt;li class=&quot;s1&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/sery/2104493&quot; target=&quot;_blank&quot;&gt;十年老站吐血迁移实录&lt;/a&gt;&lt;/li&gt;
+					    					    	&lt;li class=&quot;s2&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/ganbing/2105842&quot; target=&quot;_blank&quot;&gt;本想把docker中运行的mysql迁移至RDS中，确没想到mysql会话“炸锅了”&lt;/a&gt;&lt;/li&gt;
+					    					    	&lt;li class=&quot;s3&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/11392572/2105018&quot; target=&quot;_blank&quot;&gt;BUG漏测的原因总结，以及如何处理&lt;/a&gt;&lt;/li&gt;
+					    					    	&lt;li class=&quot;s4&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/13525470/2104916&quot; target=&quot;_blank&quot;&gt;自动化运维工具Ansible实战（一）简介和部署&lt;/a&gt;&lt;/li&gt;
+					    					    	&lt;li class=&quot;s5&quot;&gt;&lt;a href=&quot;http://blog.51cto.com/gloomyfish/2105427&quot; target=&quot;_blank&quot;&gt;VGG卷积神经网络模型解析&lt;/a&gt;&lt;/li&gt;
+					    					  &lt;/ul&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+            		    &lt;!-- 最近来访 --&gt;
+	        			    &lt;h3 class=&quot;BoxTil&quot;&gt;最近来访&lt;/h3&gt;
+				&lt;div class=&quot;Box articles&quot;&gt;
+					&lt;div class=&quot;list&quot;&gt;
+						&lt;ul class=&quot;come-round-list&quot;&gt;
+					        					    		&lt;li&gt;
+                                &lt;div class=&quot;is-vip-bg-3&quot;&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/10627699&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                        &lt;img class=&quot;is-vip-img is-vip-img-4&quot; data-uid=&quot;10617699&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+					    			&lt;/a&gt;
+                                &lt;/div&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/10627699&quot; class=&quot;con&quot; target=&quot;_blank&quot;&gt;seven_zl&lt;/a&gt;
+					    		&lt;/li&gt;
+					        					    		&lt;li&gt;
+                                &lt;div class=&quot;is-vip-bg-3&quot;&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13295375&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                        &lt;img class=&quot;is-vip-img is-vip-img-4&quot; data-uid=&quot;13285375&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+					    			&lt;/a&gt;
+                                &lt;/div&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13295375&quot; class=&quot;con&quot; target=&quot;_blank&quot;&gt;wx59b74bf369e87&lt;/a&gt;
+					    		&lt;/li&gt;
+					        					    		&lt;li&gt;
+                                &lt;div class=&quot;is-vip-bg-3&quot;&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13714497&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                        &lt;img class=&quot;is-vip-img is-vip-img-4&quot; data-uid=&quot;13704497&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+					    			&lt;/a&gt;
+                                &lt;/div&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13714497&quot; class=&quot;con&quot; target=&quot;_blank&quot;&gt;wx5adb1ac60abe7&lt;/a&gt;
+					    		&lt;/li&gt;
+					        					    		&lt;li&gt;
+                                &lt;div class=&quot;is-vip-bg-3&quot;&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13468873&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                        &lt;img class=&quot;is-vip-img is-vip-img-4&quot; data-uid=&quot;13458873&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+					    			&lt;/a&gt;
+                                &lt;/div&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/13468873&quot; class=&quot;con&quot; target=&quot;_blank&quot;&gt;一叶子leaf&lt;/a&gt;
+					    		&lt;/li&gt;
+					        					    		&lt;li&gt;
+                                &lt;div class=&quot;is-vip-bg-3&quot;&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/12517892&quot; class=&quot;a-img&quot; target=&quot;_blank&quot;&gt;
+                                        &lt;img class=&quot;is-vip-img is-vip-img-4&quot; data-uid=&quot;12507892&quot; src=&quot;http://ucenter.51cto.com/images/noavatar_middle.gif&quot;/&gt;
+					    			&lt;/a&gt;
+                                &lt;/div&gt;
+					    			&lt;a href=&quot;http://blog.51cto.com/12517892&quot; class=&quot;con&quot; target=&quot;_blank&quot;&gt;xiaoxiaoheihei&lt;/a&gt;
+					    		&lt;/li&gt;
+					        					        &lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+						&lt;/ul&gt;
+					&lt;/div&gt;
+				&lt;/div&gt;
+	        		&lt;/div&gt;
+		&lt;div class=&quot;clear&quot;&gt;&lt;/div&gt;
+	&lt;/div&gt;	
+	&lt;!-- end content --&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	var praise_url = &apos;http://blog.51cto.com/praise/praise&apos;
+	setPraise($(&apos;.artical-list .top .zan&apos;))
+    $(&apos;body&apos;).css(&apos;background&apos;,&apos;#fff&apos;)
+	$(&apos;.blog-my-title li&apos;).click(function(){
+		$(&apos;.blog-my-title li&apos;).removeClass(&apos;on&apos;)
+		$(this).addClass(&apos;on&apos;)
+	})
+	setHover($(&apos;.filtrate&apos;))
+	setHover($(&apos;.time&apos;))
+	$(&apos;.select-down li&apos;).click(function(){
+		var text = $(this).text()
+		$(this).parent().prev().prev().text(text)
+	})
+	$(&apos;.artical-list .remove&apos;).click(function(){
+    var li = $(this).parents(&apos;li&apos;),url = $(this).data(&apos;url&apos;),id = $(this).data(&apos;id&apos;);
+		new AutoBox({
+			content:&apos;确定删除？&apos;,
+			mask:&quot;#000&quot;,
+			Yes:&apos;确定&apos;,
+			No:&apos;取消&apos;,
+			yc:function(){
+		        $.ajax({
+		           	url:url,
+		           	type:&quot;post&quot;,
+		           	data:{ids:id,operation:&apos;delBlog&apos;},
+		           	dataType:&apos;json&apos;,
+		           	success:function(res){
+			            if(res.status == &apos;1&apos;){
+			              	if(li.siblings().length==0) location.reload();
+			              	li.fadeOut()
+			            }
+		           	}
+		        });
+			}
+		})
+	})
+	window._bd_share_config={
+		&quot;common&quot;:{
+			&quot;bdText&quot;:&quot;小强性能自动化测试品牌&quot;,
+			&quot;bdDesc&quot;:&quot;快来看看我分享给你的技术好文吧&quot;,
+			&quot;bdMini&quot;:&quot;2&quot;,
+			&quot;bdMiniList&quot;:false,
+			&quot;bdPic&quot;:&quot;https://s1.51cto.com/images/201710/25/bd540a4f14d822f6e69087758699358b.jpg&quot;,
+			&quot;bdStyle&quot;:&quot;0&quot;,
+			&quot;bdSize&quot;:&quot;16&quot;,
+		},
+		&quot;share&quot;:{}
+	};
+	with(document)0[(getElementsByTagName(&apos;head&apos;)[0]||body).appendChild(createElement(&apos;script&apos;)).src=&apos;http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion=&apos;+~(-new Date()/36e5)];
+&lt;/script&gt;
+&lt;/div&gt;
+&lt;div class=&quot;Footer&quot;&gt;
+    &lt;p class=&quot;copy tc&quot;&gt;Copyright &amp;copy; 2005-2018 &lt;a href=&quot;http://www.51CTO.com&quot; target=&quot;_blank&quot;&gt;51CTO.COM&lt;/a&gt; 版权所有 京ICP证060544号&lt;/p&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;rightTools&quot;&gt;
+      &lt;a href=&quot;http://blog.51cto.com/blogger/publish&quot; class=&quot;aa&quot;&gt;写文章&lt;/a&gt;
+    &lt;a href=&quot;http://wpa.qq.com/msgrd?v=3&amp;amp;uin=3591348659&amp;amp;site=qq&amp;amp;menu=yes&quot; class=&quot;qq&quot;&gt;&lt;/a&gt;
+  &lt;a href=&quot;http://blog.51cto.com/51ctoblog/2057444&quot; class=&quot;yy&quot; target=&quot;_blank&quot;&gt;&lt;/a&gt;
+  &lt;a href=&quot;javascript:void(0);&quot; class=&quot;gotop&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display:none&quot;&gt;
+&lt;iframe frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;0&quot; height=&quot;0&quot; src=&quot;//log.51cto.com/pageview.php?frompos=blog_art&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;script src=&quot;http://static1.51cto.com/edu/blog/js/pvlog.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://logs.51cto.com/rizhi/count/count.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+  $(&quot;.gotop&quot;).click(function(){$(window).scrollTop(0)})
+&lt;/script&gt;
+
+&lt;iframe src =&quot;http://stor.51cto.com/&quot; width=&quot;0px&quot; height=&quot;0px&quot; style=&quot;display: none&quot;&gt;&lt;/iframe&gt;
+
+    &lt;script type=&quot;text/javascript&quot;&gt;
+    //百度统计代码
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement(&quot;script&quot;);
+      hm.src = &quot;https://hm.baidu.com/hm.js?2283d46608159c3b39fc9f1178809c21&quot;;
+      var s = document.getElementsByTagName(&quot;script&quot;)[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
+
+    //自动推送链接
+    (function(){
+        var bp = document.createElement(&apos;script&apos;);
+        var curProtocol = window.location.protocol.split(&apos;:&apos;)[0];
+        if (curProtocol === &apos;https&apos;) {
+            bp.src = &apos;https://zz.bdstatic.com/linksubmit/push.js&apos;;
+        }
+        else {
+            bp.src = &apos;http://push.zhanzhang.baidu.com/push.js&apos;;
+        }
+        var s = document.getElementsByTagName(&quot;script&quot;)[0];
+        s.parentNode.insertBefore(bp, s);
+    })();
+      var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push([&apos;setAccountId&apos;, &apos;8c51975c40edfb67&apos;]);
+        (function() {
+          var vds = document.createElement(&apos;script&apos;);
+          vds.type=&apos;text/javascript&apos;;
+          vds.async = true;
+          vds.src = (&apos;https:&apos; == document.location.protocol ? &apos;https://&apos; : &apos;http://&apos;) + &apos;assets.growingio.com/vds.js&apos;;
+          var s = document.getElementsByTagName(&apos;script&apos;)[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+      document.write(decodeURI(&quot;%3Cscript src=&apos;https://tongji.51cto.com/frontend/tj.gif&apos; type=&apos;text/javascript&apos;%3E%3C/script%3E&quot;));
+    &lt;/script&gt;
+    
+&lt;script&gt;
+    (function(){
+        var wh=$(window).height(),fh=$(&apos;.Footer&apos;).outerHeight(true),hh=$(&apos;.Header&apos;).outerHeight(true)
+        $(&apos;.Content-box&apos;).css({&apos;min-height&apos;: wh-fh-hh})
+    })()
+&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</responseData>
+  <responseFile class="java.lang.String"></responseFile>
+  <java.net.URL>http://blog.51cto.com/xqtesting</java.net.URL>
+</httpSample>
+
+</testResults>
